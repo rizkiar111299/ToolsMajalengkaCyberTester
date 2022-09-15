@@ -24,13 +24,13 @@ Tools Directory Scanner :
 # Cara Penggunaan
 
 Windows
-- Install python V3.9 atau V3.10
+'''- Install python V3.9 atau V3.10
 - Install modul yang ada di dalam requirement.txt
 - Masukan Perintah main.py jika PATH python sudah di pasang
 - Jika PATH python belum di pasang Masukan perintah C:/python3.10/python.exe main.py
-
+'''
 Linux
-- Git include https://github.com/rizkiar111299/ToolsMajalengkaCyberTester.git
+'''- Git include https://github.com/rizkiar111299/ToolsMajalengkaCyberTester.git
 - cd ToolsMajalengkaCyberTester
 - pip -r requirement.txt install
-- main.py
+- main.py'''
