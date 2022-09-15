@@ -1,0 +1,3 @@
+http://whsec.us/rfi.php
+http://rfi.nessus.org/rfi.txt
+http://cirt.net/rfiinc.txt
