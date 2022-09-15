@@ -33,9 +33,10 @@ Linux
 ```- Git include https://github.com/rizkiar111299/ToolsMajalengkaCyberTester.git
 - cd ToolsMajalengkaCyberTester
 - pip -r requirement.txt install
-- main.py```
+- main.py
+```
 
 #Donasi
 ```
-- Paypal https://www.paypal.com/paypalme/RIZKIALAMRAMDHANI11
+Paypal https://www.paypal.com/paypalme/RIZKIALAMRAMDHANI11
 ```
