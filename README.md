@@ -34,3 +34,8 @@ Linux
 - cd ToolsMajalengkaCyberTester
 - pip -r requirement.txt install
 - main.py```
+
+#Donasi
+```
+- Paypal https://www.paypal.com/paypalme/RIZKIALAMRAMDHANI11
+```
