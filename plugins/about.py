@@ -30,12 +30,10 @@ def about():
                 [2] BruteV2 : Tools ini digunakan untuk melakukan login dengan ketentuan Username sudah di ketahui terlebih dahulu.
                               Sistem kerja ini yaitu mengirimkan Paket data ke server dengan cara berulang sesuai jumlah data pada wordlist password.
                 [3] Directory Web Scanner : Tools ini memudahkan untuk mengecheck directory Web yang bisa di access.
-                [4] Admin Finder          : Tools ini memudahkan pencarian panel admin
-                [5] Bug Scanner           : Tools ini digunakan untuk melakukan pengecheckan Bug SQL Injection,XSS Injection,
-                                            Directory Traversal,RFI,LFI dengan method Get dan POST. 
-                [6] IP Geolocation        : Tools ini dapat menyimpulkan posisi geografis perangkat yang terhubung ke Internet.
+                [4] Admin Finder          : Tools ini memudahkan pencarian panel admin.
+                [5] Directory Traversal Checker : Tools ini digunakan untuk melakukan pengecheckan Bug Directory Travesal.
+                [5] Sql Injection Checker        : Tools ini digunakan untuk melakukan pengecheckan Bug SQL Injection dengan method Get dan POST. 
+                [6] Xss Injection Checker       : Tools ini digunakan untuk melakukan pengecheckan Bug Xss Injection Dengan method Get.
+                [7] IP Geolocation              : Tools ini dapat menyimpulkan posisi geografis perangkat yang terhubung ke Internet.
+                [8] Subdomain Scanner           : Tools ini digunakan untuk mencari informasi subdomain yang terhubung dengan domain utama.
     """+ Style.RESET_ALL)
-
-  """menu_back = input("Kembali Kemenu : ")
-  if('y' == menu_back or 'Y' == menu_back):
-    main()"""

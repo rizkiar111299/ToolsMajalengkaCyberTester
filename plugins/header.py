@@ -19,7 +19,7 @@ class menu():
    .-------`   --`   ---------`      ``.-::-..`         `---------- 
 	<=- Majalengka Cyber Tester -=>
 	############################################################
-    	# 	           Tools Pentester V 3.1                   #
+    	# 	           Tools Pentester V 3.2                   #
     	#  	          Dev Rizki Alam Ramdhani                  #
     	# 	          Majalengka Cyber Tester                  #
     	# 	                 Python 3.10                       #
@@ -28,8 +28,10 @@ class menu():
 	[2] Brute Force V2		  
 	[3] Directory Web Scanner
 	[4] Admin Finder
-	[5] Bug Scanner
-	[6] IP Geolocation
-	[7] Subdomain Scanner
-	[8] About	  
+	[5] Directory Traversal Checker
+	[6] Sql Injection Checker
+	[7] XSS Injection Checker
+	[8] IP Geolocation
+	[9] Subdomain Scanner
+	[10] About	  
 		""" + Style.RESET_ALL)

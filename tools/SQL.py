@@ -135,35 +135,35 @@ def SqlInjection():
                 print(e)
         bar.finish()
         print("Scanner Selesai")
-        print("")
-        with open('././wordlist/Xss_Injection.txt','r',encoding = "utf8") as xss:
-            xsspay = xss.readlines()
-        headers = {
-                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'
-            }
-        bar = Bar(Fore.YELLOW +'Progress Scanner XSS Injetion Sedang Berjalan'+ Style.RESET_ALL, max=6606 )
-        for i in range(0,len(xsspay)):
-            try:
-                bar.next()
-                urllib3.disable_warnings()
-                payxss = xsspay[i].rstrip('\n')
-                data_dict = {parameter:payxss }
-                url = requests.post(link,verify = False, headers = headers, timeout = 150,data = data_dict,allow_redirects=True)
-                if 'menyatakan' in str(url.content):
-                    print(Fore.YELLOW +"\n\n################### Link Vuln Xss Injection ###################"+ Style.RESET_ALL)
-                    print(Fore.YELLOW +"Xss Vuln     : {}".format(Style.RESET_ALL+url.url))
-                    print(Fore.YELLOW +"Payload Code : {}".format(Style.RESET_ALL+payxss))
-                    print(Fore.YELLOW +"Status Code  : {}".format(Style.RESET_ALL+str(url.status_code)))
-                    print(Fore.YELLOW +"###############################################################"+ Style.RESET_ALL)
-                    break
-                elif url.status_code == 302:
-                    print(Fore.YELLOW +"\n\n################### Link Vuln Xss Injection ###################"+ Style.RESET_ALL)
-                    print(Fore.YELLOW +"Xss Vuln     : {}".format(Style.RESET_ALL+url.url))
-                    print(Fore.YELLOW +"Payload Code : {}".format(Style.RESET_ALL+payxss))
-                    print(Fore.YELLOW +"Status Code  : {}".format(Style.RESET_ALL+str(url.status_code)))
-                    print(Fore.YELLOW +"###############################################################"+ Style.RESET_ALL)
-                    break
-            except requests.exceptions.RequestException as e:
-                print(e)
-            bar.finish()
-            print("Scanner Selesai")
+        # print("")
+        # with open('././wordlist/Xss_Injection.txt','r',encoding = "utf8") as xss:
+        #     xsspay = xss.readlines()
+        # headers = {
+        #         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'
+        #     }
+        # bar = Bar(Fore.YELLOW +'Progress Scanner XSS Injetion Sedang Berjalan'+ Style.RESET_ALL, max=6606 )
+        # for i in range(0,len(xsspay)):
+        #     try:
+        #         bar.next()
+        #         urllib3.disable_warnings()
+        #         payxss = xsspay[i].rstrip('\n')
+        #         data_dict = {parameter:payxss }
+        #         url = requests.post(link,verify = False, headers = headers, timeout = 150,data = data_dict,allow_redirects=True)
+        #         if 'menyatakan' in str(url.content):
+        #             print(Fore.YELLOW +"\n\n################### Link Vuln Xss Injection ###################"+ Style.RESET_ALL)
+        #             print(Fore.YELLOW +"Xss Vuln     : {}".format(Style.RESET_ALL+url.url))
+        #             print(Fore.YELLOW +"Payload Code : {}".format(Style.RESET_ALL+payxss))
+        #             print(Fore.YELLOW +"Status Code  : {}".format(Style.RESET_ALL+str(url.status_code)))
+        #             print(Fore.YELLOW +"###############################################################"+ Style.RESET_ALL)
+        #             break
+        #         elif url.status_code == 302:
+        #             print(Fore.YELLOW +"\n\n################### Link Vuln Xss Injection ###################"+ Style.RESET_ALL)
+        #             print(Fore.YELLOW +"Xss Vuln     : {}".format(Style.RESET_ALL+url.url))
+        #             print(Fore.YELLOW +"Payload Code : {}".format(Style.RESET_ALL+payxss))
+        #             print(Fore.YELLOW +"Status Code  : {}".format(Style.RESET_ALL+str(url.status_code)))
+        #             print(Fore.YELLOW +"###############################################################"+ Style.RESET_ALL)
+        #             break
+        #     except requests.exceptions.RequestException as e:
+        #         print(e)
+        #     bar.finish()
+        #     print("Scanner Selesai")

