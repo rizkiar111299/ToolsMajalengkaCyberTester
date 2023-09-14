@@ -40,7 +40,7 @@ def adminfinder():
             try:
                 pay = dict_admin[i].rstrip('\n')
                 urllib3.disable_warnings()
-                req2 = requests.get(link+pay, headers = headers, timeout=150,verify=False,allow_redirects=False)
+                req2 = requests.get(link+pay, headers = headers, timeout=150, verify=False, allow_redirects=True)
                 if req2.status_code == 403:
                     print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req2.url + Style.RESET_ALL, req2.status_code), Fore.YELLOW + " Forbidden" + Style.RESET_ALL)
                 elif req2.status_code == 200:

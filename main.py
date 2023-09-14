@@ -33,8 +33,7 @@ elif(3 == pilihan):
 elif(4 == pilihan):
 	os.system("cls")
 	print(menu.header())
-	link = str(input(Fore.YELLOW +"Masukan Link Website : "+ Style.RESET_ALL))
-	print(adminfinder(link))
+	print(adminfinder())
 elif(5 == pilihan):
 	os.system("cls")
 	print(menu.header())

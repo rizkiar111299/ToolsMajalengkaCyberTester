@@ -32,18 +32,21 @@ def directorychecker(link):
 				urllib3.disable_warnings()
 				req = requests.get(link+payload,verify=False, headers = headers, timeout=150,allow_redirects=False)
 				status = int(req.status_code)
-				#if(int(status) == 403):
-					#print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.RED + " Forbidden" + Style.RESET_ALL)
-				#elif(int(status) == 404):
-					#print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.BLUE + " Not Found" + Style.RESET_ALL)
-				#elif(int(status) == 301):
-					#print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.YELLOW + " Moved Permanently" + Style.RESET_ALL)
-				#elif(int(status) == 302):
-					#print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.YELLOW + " Redirect Pages" + Style.RESET_ALL)
-				#elif(int(status) == 400):
-					#print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.RED + " Bad Request" + Style.RESET_ALL)
-				if(int(status) == 200):
+				if(int(status) == 403):
+					print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.RED + " Forbidden" + Style.RESET_ALL)
+				elif(int(status) == 404 or "Page not found" in str(req.content)):
+					print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.BLUE + " Not Found" + Style.RESET_ALL)
+				elif(int(status) == 301):
+					print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.YELLOW + " Moved Permanently" + Style.RESET_ALL)
+				elif(int(status) == 302):
+					print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.AQUA + " Redirect Pages" + Style.RESET_ALL)
+				elif(int(status) == 400):
+					print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.MAGENTA + " Bad Request" + Style.RESET_ALL)
+				else:
 					print(Fore.GREEN +"[SUCCESS]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.GREEN + " Live" + Style.RESET_ALL)
+					data_log = "URL:{} VULN!!!\n".format(req.url)
+					log = open("./log/directorychecker/{}.txt".format(file_name),'a')
+					log.write(str(data_log))				
 				Bar()			
 			except requests.exceptions.RequestException as e:
 				print(e)
