@@ -47,4 +47,4 @@ def adminfinder():
                     print(Fore.GREEN +"[SUCCESS]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req2.url + Style.RESET_ALL ,req2.status_code), Fore.GREEN + " Live" + Style.RESET_ALL)
                 Bar()            
             except requests.exceptions.RequestException as e:
-                print(e)
+                print(e) 

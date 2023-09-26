@@ -82,7 +82,7 @@ def SqlInjection():
             except requests.exceptions.RequestException as e:
                 print(e)
         bar.finish()
-        print("Scanner Selesai")
+        print("Scanner Selesai") 
     elif Temp_Method == 2:
         link = str(input(Fore.YELLOW +"Masukan Link Target : "+ Style.RESET_ALL))
         parameter = str(input(Fore.YELLOW +"Masukan Parameter : "+ Style.RESET_ALL))

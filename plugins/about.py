@@ -36,4 +36,4 @@ def about():
                 [6] Xss Injection Checker       : Tools ini digunakan untuk melakukan pengecheckan Bug Xss Injection Dengan method Get.
                 [7] IP Geolocation              : Tools ini dapat menyimpulkan posisi geografis perangkat yang terhubung ke Internet.
                 [8] Subdomain Scanner           : Tools ini digunakan untuk mencari informasi subdomain yang terhubung dengan domain utama.
-    """+ Style.RESET_ALL)
+    """+ Style.RESET_ALL) 

@@ -32,5 +32,5 @@ def dTraversal(link):
                 print("\n{} : {} Server Error".format(req2.url,req2.status_code))
         except requests.exceptions.RequestException as e:
             print(e)
-    bar.finish()
+    bar.finish() 
     print("Scanner Selesai")

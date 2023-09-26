@@ -140,7 +140,7 @@ def BugChecker():
             except requests.exceptions.RequestException as e:
                 print(e)
         bar.finish()
-        print("Scanner Directory Traversal Selesai")
+        print("Scanner Directory Traversal Selesai") 
         #Scanner Directory Traversal End
 
         #Scanner RFI Start

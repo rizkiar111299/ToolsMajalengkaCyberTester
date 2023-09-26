@@ -40,5 +40,5 @@ def xssinjection():
                 break
         except requests.exceptions.RequestException as e:
                 print(e)
-    print("Scanner Selesai")
+    print("Scanner Selesai") 
     bar.finish()

@@ -20,7 +20,7 @@ def handler(signum, frame):
  
 signal.signal(signal.SIGINT, handler)
 
-def bruteV1():
+def bruteV1(): 
 
     link_target = input(str(Fore.YELLOW + "Masukan Link Target Form Login   : "+ Style.RESET_ALL))
     Parameter1 = input(str(Fore.YELLOW +"Masukan Parameter user             : "+ Style.RESET_ALL))

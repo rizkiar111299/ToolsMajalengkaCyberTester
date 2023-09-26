@@ -19,7 +19,7 @@ print(menu.header())
 pilihan = int(input(Fore.YELLOW +"Masukan Menu : " + Style.RESET_ALL))
 if(1 == pilihan):
 	os.system("cls")
-	print(menu.header())
+	print(menu.header()) 
 	print(bruteV1())
 elif(2 == pilihan):
 	os.system("cls")

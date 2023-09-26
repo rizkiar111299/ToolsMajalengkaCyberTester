@@ -53,7 +53,7 @@ def bruteV2():
                 #log = open("./log/bruteV1/{}.txt".format(file_name),'a')
                 #log.write(str(simpan_log))
             except requests.exceptions.RequestException as e:
-                print(e)
+                print(e) 
             Bar()
     print(Fore.YELLOW +  "#############################################")
     print("Login Masal Selesai")

@@ -34,4 +34,4 @@ class menu():
 	[8] IP Geolocation
 	[9] Subdomain Scanner
 	[10] About	  
-		""" + Style.RESET_ALL)
+		""" + Style.RESET_ALL) 

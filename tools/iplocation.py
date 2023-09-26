@@ -19,4 +19,4 @@ def iplocation(ip):
         print (Fore.GREEN+" [!]"+Fore.YELLOW+" Bahasa                   = "+source["languages"])
         print (Fore.GREEN+" [!]"+Fore.YELLOW+" Organisasi/Intansi/ISP   = "+ source["org"]+ Style.RESET_ALL)
     except:
-        print(Fore.RED+"Sorry Please Enter IP Address"+ Style.RESET_ALL)
+        print(Fore.RED+"Sorry Please Enter IP Address"+ Style.RESET_ALL) 
