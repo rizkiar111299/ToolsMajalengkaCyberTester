@@ -51,4 +51,4 @@ def directorychecker(link):
 					log.write(str(data_log))				
 				Bar()			
 			except requests.exceptions.RequestException as e:
-				print(e)
+				print(e) 

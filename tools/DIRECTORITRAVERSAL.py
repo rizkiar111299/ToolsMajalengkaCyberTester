@@ -17,7 +17,7 @@ def dTraversal(link):
     }
     bar = Bar('Progress Scanner Sedang Berjalan', max=1533 )
     for b in range(0,len(wordlist_dTraversal)):
-        pay = wordlist_dTraversal[b].rstrip('\n')
+        pay = wordlist_dTraversal[b].rstrip('\n') 
         bar.next()
         try:
             req2 = requests.get(link+pay, headers = headers, timeout=10,verify=False)
