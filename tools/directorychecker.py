@@ -34,14 +34,16 @@ def directorychecker(link):
 				status = int(req.status_code)
 				if(int(status) == 403):
 					print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.RED + " Forbidden" + Style.RESET_ALL)
-				elif(int(status) == 404 or "Page not found" in str(req.content)):
+				elif(int(status) == 404 or "Fitur dalam proses pengembangan" in str(req.content) or "Page not found" in str(req.content) or "404" in str(req.content) or "Halaman Tidak Ditemukan" in str(req.content) ):
 					print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.BLUE + " Not Found" + Style.RESET_ALL)
 				elif(int(status) == 301):
 					print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.YELLOW + " Moved Permanently" + Style.RESET_ALL)
 				elif(int(status) == 302):
-					print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.AQUA + " Redirect Pages" + Style.RESET_ALL)
+					print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.YELLOW + " Redirect Pages" + Style.RESET_ALL)
 				elif(int(status) == 400):
 					print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.MAGENTA + " Bad Request" + Style.RESET_ALL)
+				elif(int(status) == 500):
+					print(Fore.GREEN +"[INFO]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.MAGENTA + " Internal Server Error" + Style.RESET_ALL)
 				else:
 					print(Fore.GREEN +"[SUCCESS]", Style.RESET_ALL,Fore.YELLOW +"{} : {}".format(req.url + Style.RESET_ALL ,req.status_code), Fore.GREEN + " Live" + Style.RESET_ALL)
 					data_log = "URL:{} VULN!!!\n".format(req.url)
