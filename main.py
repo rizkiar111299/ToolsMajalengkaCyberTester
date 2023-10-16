@@ -1,4 +1,5 @@
 import os
+import platform
 from tools.main import *
 from tools.DIRECTORITRAVERSAL import *
 from tools.SQL import *
@@ -14,7 +15,10 @@ from plugins.about import *
 from colorama import Fore, Back, Style, init
 
 init()
-os.system("cls")
+if(platform.system() == "Windows"):
+	os.system("cls")
+elif(platform.system() == "Linux"):
+	os.system("Clear")
 print(menu.header())
 pilihan = int(input(Fore.YELLOW +"Masukan Menu : " + Style.RESET_ALL))
 if(1 == pilihan):
