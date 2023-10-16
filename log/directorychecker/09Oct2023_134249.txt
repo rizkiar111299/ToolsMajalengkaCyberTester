@@ -1,0 +1,8 @@
+URL:https://smart.majalengkakab.go.id/.htaccess VULN!!!
+URL:https://smart.majalengkakab.go.id/_ignition/execute-solution VULN!!!
+URL:https://smart.majalengkakab.go.id/favicon.ico VULN!!!
+URL:https://smart.majalengkakab.go.id/login VULN!!!
+URL:https://smart.majalengkakab.go.id/login/ VULN!!!
+URL:https://smart.majalengkakab.go.id/logout VULN!!!
+URL:https://smart.majalengkakab.go.id/logout/ VULN!!!
+URL:https://smart.majalengkakab.go.id/robots.txt VULN!!!
