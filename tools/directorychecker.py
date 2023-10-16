@@ -1,5 +1,5 @@
 import os
-import requests
+import requests, builtwith
 import datetime
 from time import time
 from alive_progress import alive_bar
@@ -11,6 +11,24 @@ init()
 Tanggal = datetime.datetime.now()
 file_name = Tanggal.strftime("%d%b%Y_%H%M%S")	
 def directorychecker(link):
+	#CMS Detection Start
+	urllib3.disable_warnings()
+	print("")
+	print(Fore.YELLOW +"##########################"+ Style.RESET_ALL, Fore.YELLOW +"WebServer FingerPrint"+ Style.RESET_ALL, Fore.YELLOW +"##########################"+ Style.RESET_ALL)
+	a = link.rsplit('/')
+	if not 'https://' in a[2] or not 'http://' in a[2]:
+		target = 'http://'+a[2]
+	info = builtwith.parse(target)
+	for name in info:
+		value = ''
+		for val in info[str(name)]:
+			name = name.replace('-',' ')
+			name = name.title()
+			value += str(val) 
+		print(name+': '+value)
+	print(Fore.YELLOW +"###########################################################################"+ Style.RESET_ALL)
+	print("")
+	#CMS Detection End
 	print(Fore.YELLOW +"#####################################################################################################################"+ Style.RESET_ALL)
 	print(Fore.YELLOW +"Scanner Directory Web"+ Style.RESET_ALL)
 	print(Fore.YELLOW +"#####################################################################################################################"+ Style.RESET_ALL)
