@@ -1,6 +1,4 @@
-from colorama import Fore, Back, Style, init
-
-init()
+from colorama import Fore, Back, Style
 
 class menu():
 	def header():
