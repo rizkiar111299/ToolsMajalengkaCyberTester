@@ -20,7 +20,7 @@ def directorychecker(link):
 		target = 'http://'+a[2]
 	info = builtwith.parse(target)
 	for name in info:
-		value = ''
+		value = '' 
 		for val in info[str(name)]:
 			name = name.replace('-',' ')
 			name = name.title()
